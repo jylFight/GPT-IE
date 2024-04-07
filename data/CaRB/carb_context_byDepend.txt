@@ -1,0 +1,850 @@
+Sentence: 23.8 % of all households were made up of individuals and 13.0 % had someone living alone who was 65 years of age or older .
+Triples: <23.8 % of all households | made up of |individuals>;<13.0 % of all households|have |someone living alone who 65 years or older>;
+Sentence: Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+Triples: <Walcott|was brought on one knee|in the figh>;<in the fight|hardly a scratch on|Langford>;<the fight|ended with hardly a scratch on|Langford>;
+Sentence: Back at the hotel , Taylor went ahead of Lemmy and told him `` Eddie 's left the band '' .
+Triples: <Taylor|told|hi>;<Eddie|has|left the ban>;<Taylor|went ahead of|Lemm>;
+Sentence: Korean villagers hiding resistance fighters were dealt with harshly , often with summary execution , rape , forced labour , and looting .
+Triples: <Korean villagers|were hiding|resistance fighters>;<Korean villagers hiding resistance fighters|were dealt with|harshly>;<Korean villagers hiding resistance fighters|were often dealt with|summary execution>;<Korean villagers hiding resistance fighters|were often dealt with|rape>;<Korean villagers hiding resistance fighters|were often dealt with|forced labour>;<Korean villagers hiding resistance fighters|were often dealt with|looting>;<villagers hiding resistance fighters|were in|Korea>;
+Sentence: At this point , the player confronts a boss , who is usually considerably larger and tougher than regular enemies .
+Triples: <the player|confronts|a bos>;<the boss|is usually|considerably larger than regular enemie>;<the boss|is usually|considerably tougher than regular enemie>;
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: There are 109 individuals who belong to another church , and 20 individuals did not answer the question .
+Triples: <109 individuals|belong to|another church>;<20 individuals|did not answer|the question>;
+Sentence: 11 million copies of the flyer were distributed to the public via an 85-newspaper distribution chain .
+Triples: <the flyer|were distributed |to the public>;
+
+Sentence: Hoechst 33342 exhibits a 10 fold greater cell-permeability than H 33258 .
+Triples: <Hoechst 33342|exhibits|a 10 fold greater cell-permeability than H 33258>;<Hoechst 33342|exhibits a 10 fold greater cell-permeability than|H 33258>;
+Sentence: Mr. Baker heads the Kentucky Association of Science Educators and Skeptics .
+Triples: <Mr. Baker|heads|the Kentucky Association of Science and Skeptics>;
+Sentence: Ms. Waleson is a free - lance writer based in New York .
+Triples: <Ms. Waleson|is|a free - lance writer>;<Ms. Waleson|is based in|New York>;
+Sentence: High Court judges are therefore referred to as the Honourable Mr/Mrs Justice Smith .
+Triples: <High Court judges|are therefore referred to as|the Honourable Mr/Mrs Justice Smith>;
+Sentence: The drop marked the largest monthly tumble since a 19 % slide in January 1982 .
+Triples: <a 19 % slide|was|the monthly tumbl>;<The drop|marked|the largest monthly tumbl>;
+Sentence: This is usually caused by interacting inductive and capacitive elements in the oscillator .
+Triples: <This|is usually caused by|interacting inductive and capacitive elements in the oscillator>;<inductive and capacitive elements|are interacting in|the oscillator>;
+Sentence: The ninth leaf contains a circular world map measuring in circumference .
+Triples: <The ninth leaf|contains|a circular world map>;<a circular world map|is measuring in circumference|>;<a world map|is|circular>;<The leaf|is|ninth>;
+Sentence: Each of these people influenced her development as a person .
+Triples: <Each of these people|influenced|her development as a person>;<her development|was as|a person>;
+
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: The 2005 model introduced a third row of seats to the Pathfinder line for the first time .
+Triples: <The 2005 model|introduced to the Pathfinder line|a third row of seat>;<a third row of seats|was in|the Pathfinder mode>;
+Sentence: RU-486 is being administered in France only under strict supervision in the presence of a doctor .
+Triples: <RU-486|is being administered|only under strict supervisio>;<RU-486|is being administered|only in the presence of a docto>;
+Sentence: Though this time , the Brumbies won , 47 to 38 in front of a record crowd at Canberra Stadium .
+Triples: <the Brumbies|won|47 to 3>;<the Brumbies|won in front of|a record crow>;
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+Sentence: An `` Dangaioh '' adventure game was released for the PC-8801 in Japan in April 1990 .
+Triples: < Dangaioh | is | an adventure game>;<An `` Dangaioh '' adventure game | was released for |the PC-8801>;
+Sentence: Moreover , some sponsors pulled their advertising off XM in protest of the suspension .
+Triples: <some sponsors|moreover pulled in protest of the suspension|their advertisin>;<some sponsors|had|advertising>;
+Sentence: A year later , he was appointed Attorney-General for Ireland and on this occasion was sworn of the Privy Council of Ireland .
+Triples: < he | was appointed | Attorney-General for Ireland>;< he | was sworn of| the Privy Council of Ireland>;
+
+Sentence: These include any Assistant to the President , Deputy Assistant to the President , and Special Assistant to the President .
+Triples: <These|include|any Assistant to the President>;<These|include|any Deputy Assistant to the President>;<These|include|any Special Assistant to the President>;
+Sentence: Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+Triples: <Walcott|was brought on one knee|in the figh>;<in the fight|hardly a scratch on|Langford>;<the fight|ended with hardly a scratch on|Langford>;
+Sentence: Having returned to the Second Division at the first attempt , they gained promotion to the First Division in 1974 .
+Triples: <they|gained|promotion to the First Divisio>;<they|returned to|the Second Division at the first attempt>;
+Sentence: The northern terminus of this section is at Senai Airport Interchange near Senai Airport , while it shares the same Kilometre Zero with the main link .
+Triples: <The northern terminus of this section|is at|Senai Airport Interchange>;<The northern terminus of this section|is near|Senai Airport>;<Senai Airport Interchange|is near|Senai Airport>;<The northern terminus of this section|shares the same Kilometre Zero with|the main link>;
+Sentence: He toured extensively throughout the world , and earned the marketing nickname `` the Pavarotti of the Organ '' .
+Triples: <He|toured extensively|throughout the world>;<He|earned|the marketing nickname `` the Pavarotti of the Organ ''>;<the marketing nickname|was|`` the Pavarotti of the Organ ''>;<`` the Pavarotti of the Organ '' nickname|is for|marketing>;
+Sentence: His recent appearance at the Metropolitan Museum , dubbed `` A Musical Odyssey , '' was a case in point .
+Triples: <His|recent appearance|dubbed `` A Musical Odyssey , '' was a case in poin>;
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: Later , the very different STA was converted into a flightworthy orbiter , re-designated OV-099 , and christened `` Challenger '' .
+Triples: <the very different STA|was converted into|a flightworthy orbiter , re-designated OV-099 , and christened `` Challenger '>;<the STA|was converted into|a flightworthy orbiter>;<the STA|was converted and re-designated|OV-099>;<the STA|was converted and christened|`` Challenger ''>;<the flightworthy STA|was|re-designated the OV-099 and christened `` Challenger ''>;<the flightworthy and re-designated STA|was christened|`` Challenger ''>;
+
+Sentence: The Prahran and Malvern Tramways Trust opened a line from Alcand Street , St Kilda to Hawthorn Road , Caulfield North along Carlisle Street/Balaclava Road on 12 April 1913 .
+Triples: <The Prahran and Malvern Tramways Trust|opened|a line fro>;<The Prahran and Malvern Tramways Trust|opened|a line t>;<The Prahran and Malvern Tramways Trust|opened|a line alon>;<Alcand Street|is in|St Kilda>;<Hawthorn Road|is in|Caulfield North>;
+Sentence: The Commissioner of Parks and Public Property heads one of the departments in those local governments in New Jersey that operate under the Walsh Act form of municipal governance .
+Triples: <The Commissioner of Parks and Public Property|heads|one of the departments in those local governments that operate under the Walsh Act form of municipal governanc>;<local governments|operate under|the Walsh Act form of municipal governanc>;<the Walsh Act form|is of|municipal governance>;<The Commissioner|is of|Parks>;<The Commissioner|is of|Public Property>;
+Sentence: Darwin came into residence in Cambridge on 26 January 1828 , and matriculated at the University 's Senate House on 26 February .
+Triples: <Darwin|came|into residenc>;<Darwin|matriculated|at the University 's Senate Hous>;<Darwin|was|in Cambridg>;
+Sentence: Two - and three-year programs are offered in various fields , through the divisions of Games and Animation , Industrial Design , Performing Arts , Information Communications , and Human Care .
+Triples: <Two - and three-year programs|are offered|in various fields , through the divisions of Games and Animation , Industrial Design , Performing Arts , Information Communications , and Human Care>;<Games and Animation Two - and three-year programs|are offered|>;<Industrial Design Two - and three-year programs|are offered|>;<Performing Arts Two - and three-year programs|are offered|>;<Information Communications Two - and three-year programs|are offered|>;<Human Care Two - and three-year programs|are offered|>;
+Sentence: Historical buildings and monuments in Meaux are mainly located in the old city , inside the old defensive walls , still nowadays partially kept thanks to an important segment of the original surrounding wall from the Gallo-Roman period .
+Triples: <Historical buildings|are mainly located in|the old cit>;<monuments|are mainly located in|the old cit>;<Historical buildings|are mainly located in the old city inside|the old defensive wall>;<monuments|are mainly located in the old city inside|the old defensive wall>;<an important segment of the original surrounding wall|is from|the Gallo-Roman period>;
+Sentence: His son , John Crozier , Jr. , was an early aviation pioneer who began building a human-powered flying machine in the 1890s , but was killed in a feud in Grainger County before he could complete it .
+Triples: <His son|was|John Crozier Jr.>;<His son|was killed in|a feu>;<His son|was|an early aviation pioneer>;<His son|was building|a human-powered flying machin>;<His son|was killed before he could complete|a human-powered flying machin>;
+Sentence: The power cepstrum of a signal is defined as the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal .
+Triples: <The power cepstrum of a signal|is defined as|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;<a signal|has|a power cepstrum>;<The power cepstrum|is|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;
+Sentence: While the composite index lost less than a third of its year - to - date gains in the market 's recent decline , the technology group 's gains were more than halved .
+Triples: <the composite index|lost less than a third of|its year - to - date gain>;<the technology group|more than halved|its year - to - date gain>;<the technology group|had|gain>;<the composite index|had|gain>;<the market|had a decline|recently>;
+
+Sentence: The neighborhood comprises an older industrial and residential harbor front area along the Kill Van Kull west of St. George .
+Triples: <The neighborhood|comprises|an older industrial harbor front are>;<The neighborhood|comprises|an older residential harbor front are>;<the Kill Van Kull|is|west of St. George>;
+Sentence: The drop marked the largest monthly tumble since a 19 % slide in January 1982 .
+Triples: <a 19 % slide|was|the monthly tumbl>;<The drop|marked|the largest monthly tumbl>;
+Sentence: Regulations meant that the original sixth lap would be deleted and the race would be restarted from the beginning of said lap .
+Triples: <Regulations meant that|would be deleted|the original sixth lap>;<Regulations meant that|would be restarted from|the rac>;
+Sentence: A Ford spokesman said the Dearborn , Mich. , auto maker is n't aware of any injuries caused by the windshield problem .
+Triples: <*(Ford|is|Dearborn, Mich. , auto maker) -> ask mausa>;<A Ford spokesman|said|the Dearborn , Mich. , auto maker is n't aware of any injuries caused by the windshield problem>;<the Dearborn , Mich. , auto maker|is n't aware of|any injuries caused by the windshield proble>;
+Sentence: Autostereoscopy is any method of displaying stereoscopic images without the use of special headgear or glasses on the part of the viewer .
+Triples: <Autostereoscopy|is any method of|displaying stereoscopic images without the use of special headgear on the part of the viewer>;<Autostereoscopy|is any method of|displaying stereoscopic images without the use of glasses on the part of the viewer>;
+Sentence: The Israeli controlled sector was captured by Israel in the Six-Day War of June 1967 .
+Triples: <The Israeli controlled sector|was captured by|Israe>;<The sector|was|Israeli controlled>;
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: The brokerage firm tracks technology stocks with its Technology Index , which appreciated only 10.59 % in the first nine months of this year .
+Triples: <The brokerage firm|tracks technology stocks with|its Technology Index>;<its Technology Index|appreciated|only 10.59 >;<The brokerage firm|has|a Technology Index>;
+
+Sentence: Their performance was well received and inspired Ruby Hunter , Archie Roach 's partner , to dub the trio Tiddas , which is Koori English for the word sisters .
+Triples: <Their performance|was|well received>;<Their performance|inspired Ruby Hunter to dub the trio|Tiddas>;<Tiddas|is Koori English for|the word sisters>;<Ruby Hunter|is|Archie Roach 's partner>;<Archie Roach|has|a partner>;<the trio|had|a performance>;<the trio 's performance|was|well received>;
+Sentence: The problem is that Japanese businesses make decisions with a view well beyond the coming months that weigh so heavily on Mr. Salinas .
+Triples: <The problem|is that|Japanese businesses make decisions with a view well beyond the coming months that weigh so heavily on Mr. Salinas>;<the coming months|weigh so heavily on|Mr. Salinas>;<Japanese businesses|make decisions with|a view well beyond the coming months>;<businesses|are in|Japan>;
+Sentence: Historically , the division has been a rural seat and fairly safe for the National Party , which held it for all but six years from 1922 to 2004 .
+Triples: <the division|has been|a rural sea>;<the division|has been fairly safe for|the National Part>;<the National Party|held|the seat for all but six year>;
+Sentence: In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+Triples: <King|has|many writings>;<King|has|a grandmother>;<King|often refers to|the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmothe>;<King's grandmother|has|snobbish behavior>;<contradictions|are|comical>;<King's upbringing|has|material reality>;
+Sentence: Congress still is struggling to dismantle the unpopular Catastrophic Care Act of 1988 , which boosted benefits for the elderly and taxed them to pay for the new coverage .
+Triples: <Congress|is struggling to dismantle|the unpopular Catastrophic Care Act of 198>;<the Catastrophic Care Act of 1988|is unpopular|>;<the Catastrophic Care Act|is of|1988>;<the Catastrophic Care Act of 1988|boosted benefits for|the elderly>;<the Catastrophic Care Act of 1988|taxed to pay for the new coverage|the elderly>;
+Sentence: There was some profit - taking because prices for all the precious metals had risen to levels at which there was resistance to further advance , he said .
+Triples: <he|said|There was some profit - taking because prices for all the precious metals had risen to levels at which there was resistance to further advance>;<prices for all the precious metals|had risen to|levels at which there was resistance to further advanc>;<profit|was|taken because prices for all the precious metals had rise>;
+Sentence: However , it does n't give much of a clue as to whether a recession is on the horizon .
+Triples: <However, it|does n't give much of a clue as to|whether a recession is on the horizon>;<However , it|does n't give|much of a clue as to whether a recession is on the horizon>;
+Sentence: The announcement effectively removes the British government as an impediment to a takeover of the company , which is being stalked by General Motors and Ford .
+Triples: <the company|is being stalked by|General Motors>;<the company|is being stalked by|Ford>;<the British government|was an impediment to|a takeover of the company>;<The announcement|effectively removes as an impediment to a takeover of the company|the British government>;
+
+Sentence: Of the agency 's 2,750 staff members , 230 are in the field working on actual projects , such as literacy and oceanographic research .
+Triples: <the agency|has|2,750 staff members>;<230 Of the agency 's staff members|are working on|actual project>;<staff members Of the agency|are working on|literacy research project>;<staff members Of the agency|are working on|oceanographic research project>;<actual projects|are such as|literacy research>;<actual projects|are such as|oceanographic research>;
+Sentence: The Lletty Shenkin explosion of 1849 , in particular , led to demands the local middle classes in Aberdare , for improved safety in the mines .
+Triples: <The explosion|was|at Lletty Shenki>;<The Lletty Shenkin explosion of 1849|led to demands for|improved safety in the mines>;<The Lletty Shenkin explosion of 1849|led to demands by|the local middle classes in Aberdare>;<the local middle classes|were in|Aberdare>;
+Sentence: The brew , called Miller Sharp 's , will be supported by ads developed by Frankenberry , Laughlin & Constable , Milwaukee .
+Triples: <The brew|is called|Miller Sharp 's>;<The brew|will be supported by|ads developed by Frankenberry , Laughlin & Constable>;<Frankenberry , Laughlin & Constable|is in|Milwaukee>;
+Sentence: The origin of the Missionaries of the Sacred Heart is closely connected with the definition of the dogma of the Immaculate Conception of the B. V. M .
+Triples: <The origin of the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;<the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: The theatrical flourishes and unique gimmicks she used in her stage show went beyond established burlesque routines like the fan dance and balloon dance .
+Triples: <she|used|theatrical flourishes and unique gimmick>;<the fan dance and balloon dance|are|established burlesque routines>;<she|was in a|stage show>;
+Sentence: The first , at a severity of Mw 6.0 , occurred on May 26 , 1994 .
+Triples: <The first|occurred on|May 26 , 1994>;<The first|had a severity of|Mw 6.>;
+Sentence: All officers are additionally equipped with less-lethal weapons for use against threats that do not justify a firearms response .
+Triples: <All officers |are | equipped with less-lethal weapons>;<less-lethal weapons | are for | use against threats that do not justify firearms response>;
+
+Sentence: The first , at a severity of Mw 6.0 , occurred on May 26 , 1994 .
+Triples: <The first|occurred on|May 26 , 1994>;<The first|had a severity of|Mw 6.>;
+Sentence: Butters Drive in the Canberra suburb of Phillip is named in his honour .
+Triples: <Butters Drive in the Canberra suburb of Phillip|is named|in his honour>;<Butters Drive|is|in the Canberra suburb of Phillip>;
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+Sentence: The district also provides recreation and leisure services to many non-residents of the area on a fee basis .
+Triples: <The district|also provides to many non-residents of the area on a fee basis|recreation services>;<The district|also provides to many non-residents of the area on a fee basis|leisure services>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: The first part , consisting of $ 151 million of 13 3\/4 % senior subordinated reset notes , was priced at 99.75 .
+Triples: <151 million of 13 3\/4 % senior subordinated reset notes $ $|was priced at|99.75>;<The first part|consisted of|$ 151 million of 13 3\/4 % senior subordinated reset notes>;<the senior subordinated reset notes|were  priced at|99.75>;
+Sentence: Passenger services on the line were terminated on 31 December 1954 .
+Triples: <Passenger services|were terminated on|the lin>;
+Sentence: A very early form of vaccination known as variolation was developed several thousand years ago in China .
+Triples: <an early form of vaccination | was developed | several thousand years ago>;<an early form of vaccination |is known as | variolation>;<variolation | was developed | several thousand years ago>;
+
+Sentence: Even a federal measure in June allowing houses to add research fees to their commissions did n't stop it .
+Triples: <a federal measure|was|in June>;<a federal measure|was allowing houses to add research fees to|their commission>;<a federal measure allowing houses to add research fees to their commissions|did n't Even stop|i>;<houses|are allowed to add to their commissions|research fees>;
+Sentence: Thus , any event that would minimize such a surface is entropically favored .
+Triples: <any event|that would minimize such a surface is|entropically favored>;
+Sentence: And some doctors who have conducted hours of tests on themselves report temporary headaches .
+Triples: <some doctors|report|temporary headaches>;<some doctors|have conducted|hours of tests on themselves>;<some doctors who have conducted hours of tests on themselves|report|temporary headaches>;
+Sentence: The drop marked the largest monthly tumble since a 19 % slide in January 1982 .
+Triples: <a 19 % slide|was|the monthly tumbl>;<The drop|marked|the largest monthly tumbl>;
+Sentence: Byrom Street Cutting became a runaway catch point for runaway trains in the tunnel .
+Triples: <Byrom Street Cutting|became|a runaway catch point for runaway train>;<Byrom Street Cutting|is|a runaway catch point for runaway train>;
+Sentence: The RIAA lists it as one of the Best Selling Albums of All Time .
+Triples: <The RIAA|lists it|as one of the Best Selling Albums of All Time>;<it|is|an Album>;<it|is|one of the Best Selling Album>;
+Sentence: A British version of this show was developed , known as `` Gladiators : Train 2 Win '' .
+Triples: <A British version of this show | was developed , known as| `` Gladiators : Train 2 Win ''>;
+Sentence: This is usually caused by interacting inductive and capacitive elements in the oscillator .
+Triples: <This|is usually caused by|interacting inductive and capacitive elements in the oscillator>;<inductive and capacitive elements|are interacting in|the oscillator>;
+
+Sentence: In major market activity : Stock prices rose in light trading .
+Triples: <In major market activity : Stock prices|rose in light|trading>;
+Sentence: Like most incarnations , Felicia has a relationship with Spider-Man Noir .
+Triples: <Felicia|has a relationship with|Spider-Man Noir>;<Felicia|has|a relationship with Spider-Man Noir>;<Felicia|is Like|most incarnations>;<Felicia|has , Like most incarnations , a relationship with|Spider-Man Noir>;
+Sentence: The doctor , Erasistratus , suspects love is behind Antiochus 's suffering .
+Triples: <Erasistratus|is|The doctor>;<Antiochus|is suffering|>;<The doctor|suspects love is behind|Antiochus 's suffering>;
+Sentence: At first , she seems happy with this arrangement .
+Triples: <she |seems |happy with this arrangement>;
+Sentence: The ninth leaf contains a circular world map measuring in circumference .
+Triples: <The ninth leaf|contains|a circular world map>;<a circular world map|is measuring in circumference|>;<a world map|is|circular>;<The leaf|is|ninth>;
+Sentence: Several years later the remaining trackage at Charles City was abandoned .
+Triples: <the remaining trackage|was abandoned|at Charles Cit>;<the remaining trackage|was at|Charles City>;
+Sentence: Four other countries in Europe have approved Proleukin in recent months .
+Triples: <Four other countries in Europe|have approved|Proleuki>;<Four other countries|are in|Europe>;
+Sentence: The Original Celtics were a barnstorming professional basketball team in the 1920s .
+Triples: <The Original Celtics|were|a barnstorming professional basketball tea>;
+
+Sentence: As a result , environmental factors are also understood to contribute heavily to the strength of intimate relationships .
+Triples: < environmental factors  |are also understood to |  contribute heavily to the strength of intimate relationships >;< environmental factors  |are also understood to contribute heavily to|  the strength of intimate relationships >;
+Sentence: Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+Triples: <Walcott|was brought on one knee|in the figh>;<in the fight|hardly a scratch on|Langford>;<the fight|ended with hardly a scratch on|Langford>;
+Sentence: Jack Kemp has submitted a package of reforms , and they are surely headed for the Capitol Hill sausage - grinder .
+Triples: <Jack Kemp|has submitted|a package of reforms>;<a package of reforms|are surely headed for|the Capitol Hill sausage - grinder>;<Capitol Hill|has a|sausage - grinder>;
+Sentence: In `` The Scarpetta Factor , '' she is working full-time and Wesley is working part-time in New York .
+Triples: <she|is working In `` The Scarpetta Factor ''|full-tim>;<Wesley|is working In `` The Scarpetta Factor ''|part-tim>;<she|is In|`` The Scarpetta Factor ''>;<Wesley|is In|`` The Scarpetta Factor ''>;
+Sentence: The far left had some good issues even if it did not have good programs for dealing with them .
+Triples: <The far left|had|some good issues>;<The far left|did not have|good programs for dealing with issues>;
+Sentence: Japan may be a tough market for outsiders to penetrate , and the U.S. is hopelessly behind Japan in certain technologies .
+Triples: <Japan|may be a|tough market>;<Japan|may be a tough market for outsiders to penetrate|>;<Japan|may be|a tough market for outsiders to penetrate>;<the U.S.|is hopelessly behind|Japan in certain technologies>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: The term can be applied to any vessel ; turning turtle is less frequent but more dangerous on ships than on smaller boats .
+Triples: <The term|can be applied to|any vessel>;<The term|is|turning turtle>;<turning turtle|is|less frequent on ships than on smaller boats>;<turning turtle|is|more dangerous on ships than on smaller boats>;<turning turtle|can applied to|any vessel>;<boats|are|vessel>;
+
+Sentence: Consistent with systems philosophy , systems thinking concerns an understanding of a system by examining the linkages and interactions between the elements that compose the entirety of the system .
+Triples: <systems thinking|concerns an understanding of a system by examining|the linkages between the elements that compose the entirety of the system>;<systems thinking|concerns an understanding of a system by examining|the interactions between the elements that compose the entirety of the system>;<systems thinking|is Consistent with|systems philosophy>;
+Sentence: Because of this association , St. Michael was considered to be the patron saint of colonial Maryland , and as such was honored by the river being named for him .
+Triples: <St. Michael|was considered to be|the patron saint of colonial Maryland>;<St. Michael|was honored|by the river being named for him>;
+Sentence: In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+Triples: <King|has|many writings>;<King|has|a grandmother>;<King|often refers to|the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmothe>;<King's grandmother|has|snobbish behavior>;<contradictions|are|comical>;<King's upbringing|has|material reality>;
+Sentence: Mr. Bickwit said , `` I can see why an S&L examiner would regard these as unusual activities , '' but said the overseas investments `` essentially broke even '' for the S&L .
+Triples: <Mr. Bickwit|said|I can see why an S&L examiner would regard these as unusual activities>;<Mr. Bickwit|said|the overseas investments `` essentially broke even '' for the S&L>;<I|can see why|an S&L examiner would regard these as unusual activitie>;<the overseas investments|`` essentially broke even ''|for the S&>;
+Sentence: On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+Triples: <Tuqiri|was officially named as|a replacement for the injured Jarryd Hayn>;<Jarryd Hayne|was injured|>;
+Sentence: Made of space - age materials , the wheel spokes are designed like airplane wings to shave 10 minutes off the time of a rider in a 100 - mile race , the company claims .
+Triples: <the wheel spokes|are Made of|space - age materials>;<the wheel spokes|are designed like|airplane wings>;<the wheel spokes|are designed to shave 10 minutes off|the time of a rider in a 100 - mile race>;<the company|claims|the wheel spokes are designed like airplane wings to shave 10 minutes off the time of a rider in a 100 - mile race>;
+Sentence: He accused Maroboduus of hiding in the Hercynian Forest while the other Germans fought for freedom , and accused Maroboduus of being the only king among the Germans .
+Triples: <He|accused|Maroboduus of hiding in the Hercynian Forest while the other Germans fought for freedom>;<He|accused|Maroboduus of being the only king among the Germans>;
+Sentence: Centuries later , in 1806 , during the Napoleonic era , was built the Canal de l'Ourcq , destined to the inland navigation when the Marne river is not navigable because of temporary sandbanks .
+Triples: <the Canal de l'Ourcq|was built|during the Napoleonic era>;<the Canal de l'Ourcq|was built|Centuries later>;<the Canal de l'Ourcq|was built|in 1806>;<the Canal de l'Ourcq|is destined to the inland navigation|when the Marne river is not navigable because of temporary sandbanks>;
+
+Sentence: Each of these people influenced her development as a person .
+Triples: <Each of these people|influenced|her development as a person>;<her development|was as|a person>;
+Sentence: Like most incarnations , Felicia has a relationship with Spider-Man Noir .
+Triples: <Felicia|has a relationship with|Spider-Man Noir>;<Felicia|has|a relationship with Spider-Man Noir>;<Felicia|is Like|most incarnations>;<Felicia|has , Like most incarnations , a relationship with|Spider-Man Noir>;
+Sentence: During the 1730s Britain 's relationship with Spain had slowly declined .
+Triples: <Britain 's relationship with Spain|had slowly declined|During the 1730s>;<Britain|had|relationship with Spai>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: In major market activity : Stock prices rose in light trading .
+Triples: <In major market activity : Stock prices|rose in light|trading>;
+Sentence: Just above seen is a replica of a Shiva lingam .
+Triples: <a replica of a Shiva lingam|is seen|Just above>;
+Sentence: Passenger services on the line were terminated on 31 December 1954 .
+Triples: <Passenger services|were terminated on|the lin>;
+Sentence: Unlike most economic indicators , none of these figures are adjusted for seasonal variations .
+Triples: <none of these figures|are adjusted for|seasonal variations>;<most economic indicators|are adjusted for|seasonal variations>;<these figures|are Unlike|most economic indicators>;
+
+Sentence: The power cepstrum of a signal is defined as the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal .
+Triples: <The power cepstrum of a signal|is defined as|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;<a signal|has|a power cepstrum>;<The power cepstrum|is|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;
+Sentence: In 1918 , the municipality was renamed Jones in honor of American congressman William Jones , who authored the Philippine Autonomy Act of 1916 that provided for greater autonomy for the Philippines under American colonial rule .
+Triples: <the municipality|was renamed|Jone>;<the municipality|was renamed in honor of|American congressman William Jone>;<William Jones|was|a congressma>;<American congressman William Jones|authored|the Philippine Autonomy Act of 1916>;<the Philippine Autonomy Act|was of|1916>;<the Philippine Autonomy Act of 1916|provided for|greater autonomy for the Philippines under American colonial rule>;<the Philippines|was under|American colonial rule>;
+Sentence: For liquid-packed vessels , thermal relief valves are generally characterized by the relatively small size of the valve necessary to provide protection from excess pressure caused by thermal expansion .
+Triples: <liquid-packed vessels|have|thermal relief valves>;<thermal relief valves|are generally characterized by|the relatively small size of the valve necessary to provide protection from excess pressure caused by thermal expansio>;<excess pressure|is caused by|thermal expansio>;<the valve|provides protection from|excess pressure caused by thermal expansio>;<liquid-packed vessels|generally have|relatively small thermal relief valves>;
+Sentence: A year later , he was appointed Attorney-General for Ireland and on this occasion was sworn of the Privy Council of Ireland .
+Triples: < he | was appointed | Attorney-General for Ireland>;< he | was sworn of| the Privy Council of Ireland>;
+Sentence: The Library Board is charged with reviewing the strategic plans of the Harvard Library and assessing its progress in meeting those plans , reviewing system-wide policies and standards and overseeing the progress of the central services .
+Triples: <The Library Board|is charged with reviewing|the strategic plans of the Harvard Library>;<The Library Board|is charged with assessing|its progress in meeting those plans>;<those plans|are|the strategic plans of the Harvard Library>;<The Library Board|is charged with reviewing|system-wide policies>;<The Library Board|is charged with reviewing|system-wide standards>;<The Library Board|is charged with overseeing|the progress of the central services>;
+Sentence: In October 2008 , Bond apologized to former U.S. Attorney Todd Graves , after a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Graves .
+Triples: <Bond|apologized to|former U.S. Attorney Todd Grave>;<Todd Graves|is|a former U.S. Attorney>;<Todd Graves|was|Attorne>;<a U.S. Justice Department report|cited Bond for forcing Graves out over|a disagreement with Representative Sam Graves>;<Bond|forced out over a disagreement|Graves>;<Graves|had a disagreement with|Representative Sam Graves>;<Sam Graves|is|a Representative>;<Bond|apologized|a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Grave>;
+Sentence: Consistent with systems philosophy , systems thinking concerns an understanding of a system by examining the linkages and interactions between the elements that compose the entirety of the system .
+Triples: <systems thinking|concerns an understanding of a system by examining|the linkages between the elements that compose the entirety of the system>;<systems thinking|concerns an understanding of a system by examining|the interactions between the elements that compose the entirety of the system>;<systems thinking|is Consistent with|systems philosophy>;
+Sentence: Congress still is struggling to dismantle the unpopular Catastrophic Care Act of 1988 , which boosted benefits for the elderly and taxed them to pay for the new coverage .
+Triples: <Congress|is struggling to dismantle|the unpopular Catastrophic Care Act of 198>;<the Catastrophic Care Act of 1988|is unpopular|>;<the Catastrophic Care Act|is of|1988>;<the Catastrophic Care Act of 1988|boosted benefits for|the elderly>;<the Catastrophic Care Act of 1988|taxed to pay for the new coverage|the elderly>;
+
+Sentence: Mr. Baker heads the Kentucky Association of Science Educators and Skeptics .
+Triples: <Mr. Baker|heads|the Kentucky Association of Science and Skeptics>;
+Sentence: In Taiwan , the locals speak a version of the Minnan language which is called Taiwanese .
+Triples: <the locals|speak|a version of the Minnan languag>;<a version of the Minnan language|is called|Taiwanes>;<the locals|speak|Taiwanes>;<Taiwanese|is|a version of the Minnan languag>;
+Sentence: After this she became very ill with a severe cold or pneumonia .
+Triples: < she | became | very ill>;
+Sentence: The company has $ 1 billion in debt filed with the Securities and Exchange Commission .
+Triples: <The company|has|$ 1 billion in debt>;<$ 1 billion in company debt|is filed with|the Securities and Exchange Commission>;
+Sentence: Mr. Ackerman contended that it was a direct response to his efforts to gain control of Datapoint .
+Triples: <Mr. Ackerman|contended that|it was a direct response to his efforts to gain control of Datapoint>;<Mr. Ackerman|had efforts to gain control of|Datapoint>;
+Sentence: Ely Cathedral was never vaulted and retains a wooden ceiling over the nave .
+Triples: <Ely Cathedral|was never|vaulted>;<Ely Cathedral|retains|a wooden ceilin>;<Ely Cathedral|has|a nave>;
+Sentence: In 2004 the Oxford English University Press included Makaton as a common usage word in the Oxford English Dictionary .
+Triples: <the Oxford English University Press|included as a common usage word|Makato>;
+Sentence: In 1958 , he won gold medal at the 6th European Championships in Stockholm .
+Triples: <he|won|gold meda>;<the 6th European Championships|were in|Stockholm>;
+
+Sentence: On a 394 - 21 roll call , the House adopted the underlying transportation measure .
+Triples: <the House|adopted On a 394 - 21 roll call|the underlying transportation measure>;<the transportation measure|was underlying|>;<the House|had|a 394 - 21 roll call>;
+Sentence: At this point , the player confronts a boss , who is usually considerably larger and tougher than regular enemies .
+Triples: <the player|confronts|a bos>;<the boss|is usually|considerably larger than regular enemie>;<the boss|is usually|considerably tougher than regular enemie>;
+Sentence: Until its 2007 acquisition by Tavistock Group , Freebirds World Burrito had its corporate headquarters in College Station .
+Triples: <Freebirds World Burrito|had an acquisition by|Tavistock Grou>;<Freebirds World Burrito|had|corporate headquarter>;
+Sentence: In the first volume of the series , The Noh 's nature and background is explained .
+Triples: <The Noh 's nature|is explained In|the first volume of the series>;<The Noh 's background|is explained In|the first volume of the series>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+Triples: <This church|has undergone|a radical transformatio>;<This church|is of|medieval origin>;<This church|is a|building>;
+Sentence: On April 13 , 1987 , the Iowa Terminal Railroad was sold to Dave Johnson and renamed to Iowa Traction Railroad .
+Triples: <the Iowa Terminal Railroad|was sold to|Dave Johnso>;<the Iowa Terminal Railroad|was renamed to|Iowa Traction Railroa>;<the Terminal Railroad|is in|Iowa>;
+
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: Following his death , a statue of Sir Arthur was erected behind the National Archives of Canada , overlooking the Ottawa River This is one of only two statues of civil servants erected in Ottawa , both during MacKenzie King 's tenure as Prime Minister .
+Triples: <a statue of Sir Arthur|was erected|behind the National Archives of Canad>;<a statue of Sir Arthur|was erected|overlooking the Ottawa Rive>;<two statues of civil servants|were erected|in Ottaw>;<MacKenzie King|had tenure as|Prime Ministe>;<a statue of Sir Arthur|is|one of only two statues of civil servants erected in Ottawa>;<a statue of Sir Arthur|was erected|in Ottaw>;<a statue|is of|Sir Arthur>;<Sir Arthur|was|a civil servant>;<the Ottawa River|is in|Canada>;
+Sentence: In 1962 , Salahuddin won from Patharghatti assembly seat as an Independent candidate and later from Charminar constituency in 1967 .
+Triples: <Salahuddin|won from|Patharghatti assembly sea>;<Salahuddin|won as|an Independent candidat>;<Salahuddin|won from|Charminar constituenc>;<Patharghatti|has|an assembly seat>;<Charminar|has|a constituency>;
+Sentence: On 15 January 1999 , Senchuk was appointed as governor of the Lviv region ; for some time he combined two posts .
+Triples: <Senchuk|was appointed as|governor o>;<Senchuk|combined|two post>;
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+Sentence: Having returned to the Second Division at the first attempt , they gained promotion to the First Division in 1974 .
+Triples: <they|gained|promotion to the First Divisio>;<they|returned to|the Second Division at the first attempt>;
+Sentence: After leaving , he tried to find acting jobs and worked as an Elvis impersonator for a short time .
+Triples: < he | worked as | an Elvis impersonator>;< he | tried to find | acting jobs>;
+Sentence: On April 13 , 1987 , the Iowa Terminal Railroad was sold to Dave Johnson and renamed to Iowa Traction Railroad .
+Triples: <the Iowa Terminal Railroad|was sold to|Dave Johnso>;<the Iowa Terminal Railroad|was renamed to|Iowa Traction Railroa>;<the Terminal Railroad|is in|Iowa>;
+
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: From 1970 to 1985 , Gideon Rodan taught at the University of Connecticut School of Dental Medicine until he switched over to Merck .
+Triples: <Gideon Rodan|taught at|the University of Connecticut School of Dental Medicin>;<Gideon Rodan|switched over to|Merck>;<the University of Connecticut|has|a School of Dental Medicine>;
+Sentence: Adnan Latif was in a car accident in 1994 , during which he suffered significant head injuries , which left him with on-going neurological problems .
+Triples: <Adnan Latif | was in | a car accident>;<Adnan Latif | suffered | significant head injuries>;<Adnan Latif |was left with |  on-going neurological problems>;
+Sentence: Following his death , a statue of Sir Arthur was erected behind the National Archives of Canada , overlooking the Ottawa River This is one of only two statues of civil servants erected in Ottawa , both during MacKenzie King 's tenure as Prime Minister .
+Triples: <a statue of Sir Arthur|was erected|behind the National Archives of Canad>;<a statue of Sir Arthur|was erected|overlooking the Ottawa Rive>;<two statues of civil servants|were erected|in Ottaw>;<MacKenzie King|had tenure as|Prime Ministe>;<a statue of Sir Arthur|is|one of only two statues of civil servants erected in Ottawa>;<a statue of Sir Arthur|was erected|in Ottaw>;<a statue|is of|Sir Arthur>;<Sir Arthur|was|a civil servant>;<the Ottawa River|is in|Canada>;
+Sentence: 23.8 % of all households were made up of individuals and 13.0 % had someone living alone who was 65 years of age or older .
+Triples: <23.8 % of all households | made up of |individuals>;<13.0 % of all households|have |someone living alone who 65 years or older>;
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: The school was founded in 1851 as the German-English Academy by a group of Milwaukee German Americans that included educationist Peter Engelmann and hardware wholesaler William Frankfurth .
+Triples: <The school|was founded as|the German-English Academ>;<The German-English Academy|was founded by|a group of Milwaukee German American>;<The Milwaukee German Americans|was|a grou>;<Peter Engelmann|was|an educationis>;<William Frankfurth|was|a hardware wholesale>;<The group|included|Peter Engelmann and William Frankfurt>;
+Sentence: He returned to Cleveland , working in clubs as a singer , dancer , and comedian , often appearing in character as Prince DuMarr .
+Triples: <He|returned to|Cleveland>;<He returned to Cleveland|working in clubs as a|singer>;<He returned to Cleveland|working in clubs as a|dancer>;<He returned to Cleveland|working in clubs as a|comedian>;<He|often appeared in character as|Prince DuMarr>;
+
+Sentence: In England , emphasis was placed on the orientation of the chapels to the east .
+Triples: <emphasis|was placed on|the orientation of the chapels to the eas>;
+Sentence: In 1958 , he won gold medal at the 6th European Championships in Stockholm .
+Triples: <he|won|gold meda>;<the 6th European Championships|were in|Stockholm>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: The Treasury bills sold yesterday settle today , rather than the standard settlement day of Thursday .
+Triples: <The Treasury bills sold yesterday|settle|today>;<Treasury bills|were sold|yesterday>;<Thursday|is|the standard settlement day>;
+Sentence: However , it does n't give much of a clue as to whether a recession is on the horizon .
+Triples: <However, it|does n't give much of a clue as to|whether a recession is on the horizon>;<However , it|does n't give|much of a clue as to whether a recession is on the horizon>;
+Sentence: When New Tomorrowland opened in 1967 , the space that this ride occupied was turned into the Tomorrowland Stage .
+Triples: <New Tomorrowland|opened|in 1967>;<New Tomorrowland|was|this ride>;<New Tomorrowland|occupied|space>;<the space that this ride occupied|was turned into|the Tomorrowland Stag>;
+Sentence: After this she became very ill with a severe cold or pneumonia .
+Triples: < she | became | very ill>;
+Sentence: The RIAA lists it as one of the Best Selling Albums of All Time .
+Triples: <The RIAA|lists it|as one of the Best Selling Albums of All Time>;<it|is|an Album>;<it|is|one of the Best Selling Album>;
+
+Sentence: She received her Master Degree in the field of Controls , Guidance and Instrumentation from I.I.T Madras and Ph.d degree from the department of Aerospace engineering .
+Triples: <She|received|her Master Degree in the field of Controls , Guidance and Instrumentatio>;<She|received|her Ph.d degre>;<department of Aerospace engineering|is at|I.I.T Madras>;<I.I.T|is in|Madras>;<her Master Degree|is in the field of|Controls>;<her Master Degree|is in the field of|Guidance>;<her Master Degree|is in the field of|Instrumentation>;
+Sentence: Under the agreement with the House and Senate leaders , the minimum wage would rise from the current $ 3.35 an hour to $ 4.25 an hour by April 1991 .
+Triples: <the minimum wage|would rise from|the current $ 3.35 an hour>;<the minimum wage|would rise to|$ 4.25 an hou>;<the minimum wage|is|$ 3.35 an hou>;<the minimum wage|will be|$ 4.25 an hou>;<the minimum wage|would rise Under|the agreement with the House and Senate leaders>;<the agreement|is with|the House and Senate leaders>;
+Sentence: One major difference between the two models is that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts , whereas the Comprehensive Model demonstrates an interconnected relationship between the variables .
+Triples: <the Photographic Model|follows in the development of flashbulb accounts|more of a step-by-step process>;<the Comprehensive Model|demonstrates|an interconnected relationship between the variables>;<One major difference|is between|the two models>;<the two models|are|the Photographic Model and the Comprehensive Model>;
+Sentence: By opening for acts such as U2 and Bob Dylan , they became a popular alternative rock band of the 1980s , retaining a loyal following to the present day .
+Triples: <they|were opening for|acts such as U2 and Bob Dylan>;<they|became|a popular alternative rock band of the 1980s>;<they|are retaining|a loyal following to the present day>;<they|were|an alternative rock band of the 1980s>;
+Sentence: Here , equality between the two vectors in homogeneous coordinates means that the numbers on the right side are equal to the numbers on the left side up to some common scaling factor formula_8 .
+Triples: <equality|is between|the two vector>;<equality between the two vectors in homogeneous coordinates|means that|the numbers on the right side are equal to the numbers on the left sid>;<numbers|are|on the right side>;<numbers|are|on the left side>;<the numbers on the right side|are equal to|the numbers on the left side>;<the numbers on the right side and the numbers on the left side|are equal up to|some common scaling factor formula_8>;<formula_8|is|some common scaling factor>;
+Sentence: Upon exiting Davidson Township , Sullivan County , Muncy Creek enters Lycoming County and flows along the border between Shrewsbury Township and Penn Township for several miles .
+Triples: <Muncy Creek|enters|Lycoming County>;<Muncy Creek|exits|Davidson Township , Sullivan County>;<Davidson Township|is in|Sullivan County>;<Muncy Creek|flows along for several miles|the border between Shrewsbury Township and Penn Township>;<the border|is between|Shrewsbury Township and Penn Township>;
+Sentence: On October 14 , 2012 , Sidney Rice caught the game winning touchdown from a 46-yard pass from Russell Wilson to beat the New England Patriots 24-23 .
+Triples: <Sidney Rice|caught|the game winning touchdow>;<Sidney Rice|caught a 46-yard pass from|Russell Wilso>;<the New England Patriots|were beat|24-2>;<the game winning touchdown|beat|the New England Patriot>;<a 46-yard pass|was from|Russell Wilso>;
+Sentence: Since many of the rebbes of the Nadvorna Dynasty married relatives , many of the rebbes in this list are sons-in-law of other rebbes on the list .
+Triples: <many of the rebbes of the Nadvorna Dynasty|married|relatives>;<many of the rebbes in this list|are sons-in-law of|other rebbes on the list>;<the Nadvorna Dynasty|has|rebbes>;<the rebbes|are in|this list>;
+
+Sentence: We just want a plan that satisfies creditors and at the end leaves a healthy Revco . ''
+Triples: <We|just want|a plan that satisfies creditors>;<We|just want|a plan that leaves a healthy Revco>;<a plan|will satisfy|creditors>;<a plan|will leave|a healthy Revc>;
+Sentence: His recent appearance at the Metropolitan Museum , dubbed `` A Musical Odyssey , '' was a case in point .
+Triples: <His|recent appearance|dubbed `` A Musical Odyssey , '' was a case in poin>;
+Sentence: A British version of this show was developed , known as `` Gladiators : Train 2 Win '' .
+Triples: <A British version of this show | was developed , known as| `` Gladiators : Train 2 Win ''>;
+Sentence: The Cathedral and the belfry were thoroughly renovated from 2006 to 2008 .
+Triples: <The Cathedral|was thoroughly renovated|from 2006>;<The Cathedral|was thoroughly renovated|to 2008>;<the belfry|was thoroughly renovated|from 2006>;<the belfry|was thoroughly renovated|to 2008>;
+Sentence: The network must refund money to the advertisers and loses considerable revenue and prestige .
+Triples: <The network|must refund money to the|advertisers>;<The network|loses|considerable revenue and prestige>;<The network|loses|considerable revenue>;<The network|loses|prestige>;
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: Thus , any event that would minimize such a surface is entropically favored .
+Triples: <any event|that would minimize such a surface is|entropically favored>;
+Sentence: He toured extensively throughout the world , and earned the marketing nickname `` the Pavarotti of the Organ '' .
+Triples: <He|toured extensively|throughout the world>;<He|earned|the marketing nickname `` the Pavarotti of the Organ ''>;<the marketing nickname|was|`` the Pavarotti of the Organ ''>;<`` the Pavarotti of the Organ '' nickname|is for|marketing>;
+
+Sentence: The Lletty Shenkin explosion of 1849 , in particular , led to demands the local middle classes in Aberdare , for improved safety in the mines .
+Triples: <The explosion|was|at Lletty Shenki>;<The Lletty Shenkin explosion of 1849|led to demands for|improved safety in the mines>;<The Lletty Shenkin explosion of 1849|led to demands by|the local middle classes in Aberdare>;<the local middle classes|were in|Aberdare>;
+Sentence: The power cepstrum of a signal is defined as the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal .
+Triples: <The power cepstrum of a signal|is defined as|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;<a signal|has|a power cepstrum>;<The power cepstrum|is|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;
+Sentence: He served as the first Prime Minister of Australia and became a founding justice of the High Court of Australia .
+Triples: <He|served as|the first Prime Minister o>;<He|became|a founding justice of the High Court o>;<Australia|has a|Prime Minister>;<Australia|has a|High Court>;
+Sentence: The previous champions in 2005 were Kilmacud Crokes , who were knocked out of the 2006 competition at the semi-final stage .
+Triples: <Kilmacud Crokes|were|The previous champion>;<Kilmacud Crokes|were knocked out of|the competitio>;<Kilmacud Crokes|were knocked out of|the competition at the semi-final stag>;<The previous champions|were knocked out of|the competitio>;
+Sentence: The car was based around a Rodeck resleevable , modified Chevrolet 350 ci V8 racing engine coupled to a custom three-speed transmission .
+Triples: <The car|was based around|a Rodeck resleevable , modified Chevrolet 350 ci V8 racing engine>;<a Rodeck resleevable , modified Chevrolet 350 ci V8 racing engine|was coupled to|a custom three-speed transmission>;
+Sentence: `` Kormoran '' was the only Axis ship to conduct attacks in Australian waters during 1941 and the last Axis surface raider to enter Australian waters until 1943 .
+Triples: <`` Kormoran ''|was|an Axis ship>;<`` Kormoran ''|conducted attacks|in Australian water>;<`` Kormoran ''|was|an Axis surface raider>;<`` Kormoran ''|entered|Australian waters>;<`` Kormoran ''|was the last Axis surface raider to enter|Australian water>;<`` Kormoran ''|was the only Axis ship to conduct attacks|in Australian water>;<an Axis ship|conducted attacks|in Australian water>;<an Axis surface raider|entered|Australian waters>;
+Sentence: He held the post as Attorney-General until 1834 ; he was readmitted in 1841 and after serving for a year , became Master of the Rolls in Ireland .
+Triples: <He|held|the post as Attorney-Genera>;<He|was readmitted|in 1841>;<He|became|Master of the Roll>;
+Sentence: The northern terminus of this section is at Senai Airport Interchange near Senai Airport , while it shares the same Kilometre Zero with the main link .
+Triples: <The northern terminus of this section|is at|Senai Airport Interchange>;<The northern terminus of this section|is near|Senai Airport>;<Senai Airport Interchange|is near|Senai Airport>;<The northern terminus of this section|shares the same Kilometre Zero with|the main link>;
+
+Sentence: XM did offer a free month of service to subscribers who called in complaints of the suspension .
+Triples: <XM|did offer|a free month of service>;<XM|did offer to|subscribers who called in complaints of the suspension>;<subscribers|called in|complaints of the suspension>;<XM|has|subscribers>;
+Sentence: RU-486 is being administered in France only under strict supervision in the presence of a doctor .
+Triples: <RU-486|is being administered|only under strict supervisio>;<RU-486|is being administered|only in the presence of a docto>;
+Sentence: Though this time , the Brumbies won , 47 to 38 in front of a record crowd at Canberra Stadium .
+Triples: <the Brumbies|won|47 to 3>;<the Brumbies|won in front of|a record crow>;
+Sentence: He served as the first Prime Minister of Australia and became a founding justice of the High Court of Australia .
+Triples: <He|served as|the first Prime Minister o>;<He|became|a founding justice of the High Court o>;<Australia|has a|Prime Minister>;<Australia|has a|High Court>;
+Sentence: They believe in God as a single entity , not as the Trinity accepted by the vast majority of Christians .
+Triples: <They|believe in God as|a single entity>;<They|believe in God not as|the Trinity accepted by the vast majority of Christians>;<God as the Trinity|is accepted by|the vast majority of Christians>;<God as a single entity|is not accepted by|the vast majority of Christians>;
+Sentence: He had developed a hatred for the hacker and a grudging appreciation of the federal `` spooks '' who make national security their business .
+Triples: <He|had developed|a hatred for the hacker>;<He|had developed|a grudging appreciation of the federal  `` spooks '' who make national security their business>;
+Sentence: The origin of the Missionaries of the Sacred Heart is closely connected with the definition of the dogma of the Immaculate Conception of the B. V. M .
+Triples: <The origin of the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;<the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;
+Sentence: The Anti-Monitor began to siphon the positive matter of New York City to create his Antimatter waves .
+Triples: <The Anti-Monitor|began to siphon|the positive matter of New York City>;<the positive matter|was of|New York City>;<the positive matter of New York City|will be to create|The Anti-Monitor's Antimatter waves>;<The Anti-Monitor|has|Antimatter waves>;<the matter|is positive|of New York City>;
+
+Sentence: Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+Triples: <Walcott|was brought on one knee|in the figh>;<in the fight|hardly a scratch on|Langford>;<the fight|ended with hardly a scratch on|Langford>;
+Sentence: The northern terminus of this section is at Senai Airport Interchange near Senai Airport , while it shares the same Kilometre Zero with the main link .
+Triples: <The northern terminus of this section|is at|Senai Airport Interchange>;<The northern terminus of this section|is near|Senai Airport>;<Senai Airport Interchange|is near|Senai Airport>;<The northern terminus of this section|shares the same Kilometre Zero with|the main link>;
+Sentence: Adnan Latif was in a car accident in 1994 , during which he suffered significant head injuries , which left him with on-going neurological problems .
+Triples: <Adnan Latif | was in | a car accident>;<Adnan Latif | suffered | significant head injuries>;<Adnan Latif |was left with |  on-going neurological problems>;
+Sentence: Graner handcuffed him to the bars of a cell window and left him there , feet dangling off the floor , for nearly five hours .
+Triples: <Graner|handcuffed|hi>;<Graner|left|hi>;<Graner|left handcuffed to|hi>;<Graner|left with feet dangling|hi>;<cell window|has|bars>;
+Sentence: 23.8 % of all households were made up of individuals and 13.0 % had someone living alone who was 65 years of age or older .
+Triples: <23.8 % of all households | made up of |individuals>;<13.0 % of all households|have |someone living alone who 65 years or older>;
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+Sentence: The final panel of the series shows her with a mask similar to Madame Masque , angrily refusing to see Spider-Man since she blames him for her scars .
+Triples: <The final panel of the series|shows her with|a mask similar to Madame Masque>;<The final panel of the series|shows her angrily refusing to see|Spider-Man>;<she|blames for her scars|Spider-Man>;<she|is angrily refusing since|she blames Spider-Man for her scars>;<Madame Masque|has|a mask>;<she|is shown with|a mask similar to Madame Masqu>;
+Sentence: Having returned to the Second Division at the first attempt , they gained promotion to the First Division in 1974 .
+Triples: <they|gained|promotion to the First Divisio>;<they|returned to|the Second Division at the first attempt>;
+
+Sentence: Maduveya Vayasu song from nanjundi kalyana was a track played during marriages for many many years in Kannada .
+Triples: <Maduveya Vayasu|is|a song>;<Maduveya Vayasu song|is from|nanjundi kalyana>;<Maduveya Vayasu song|was a track played during|marriage>;
+Sentence: Mr. Baker found an opening under the house that led to a fume - filled coal mine .
+Triples: <Mr. Baker|found|an openin>;<an opening|led to|a fume - filled coal min>;<a coal mine|was|fume - filled>;
+Sentence: Afterward he has joined Emma Frost 's Academy of Tomorrow , a school for gifted beings .
+Triples: <he |has joined | Emma Frost 's Academy of Tomorrow>;<Academy of Tomorrow |is | a school for gifted beings>;<Emma Frost |has | a school for gifted beings>;
+Sentence: 11 million copies of the flyer were distributed to the public via an 85-newspaper distribution chain .
+Triples: <the flyer|were distributed |to the public>;
+Sentence: The company has $ 1 billion in debt filed with the Securities and Exchange Commission .
+Triples: <The company|has|$ 1 billion in debt>;<$ 1 billion in company debt|is filed with|the Securities and Exchange Commission>;
+Sentence: China 's parliament ousted two Hong Kong residents from a panel drafting a new constitution for the colony .
+Triples: <China 's parliament|ousted|two Hong Kong resident>;<a panel|is drafting|a new constitution for the colony>;<the parliament|is in|China>;<the two residents|are of|Hong Kong>;
+Sentence: Four other countries in Europe have approved Proleukin in recent months .
+Triples: <Four other countries in Europe|have approved|Proleuki>;<Four other countries|are in|Europe>;
+Sentence: The 2005 model introduced a third row of seats to the Pathfinder line for the first time .
+Triples: <The 2005 model|introduced to the Pathfinder line|a third row of seat>;<a third row of seats|was in|the Pathfinder mode>;
+
+Sentence: Tom Bradley joined the London , Midland and Scottish Railway Company as a junior clerk in the Goods Depot at Kettering in 1941 .
+Triples: <Tom Bradley|joined|the London , Midland and Scottish Railway Company as a junior clerk in the Goods Depo>;<Tom Bradley|joined the London , Midland and Scottish Railway Company|as a junior clerk in the Goods Depo>;<a Goods Depot|exists|in Ketterin>;<the London , Midland and Scottish Railway Company|exists|at Ketterin>;<Tom Bradley|exists|in 1941>;<Tom Bradley|is|a junior clerk in the Goods Depo>;
+Sentence: The northern terminus of this section is at Senai Airport Interchange near Senai Airport , while it shares the same Kilometre Zero with the main link .
+Triples: <The northern terminus of this section|is at|Senai Airport Interchange>;<The northern terminus of this section|is near|Senai Airport>;<Senai Airport Interchange|is near|Senai Airport>;<The northern terminus of this section|shares the same Kilometre Zero with|the main link>;
+Sentence: The lodge also hosts fellowship events , conclaves , training events , and an annual family banquet , and supports the council activities at Council-run events .
+Triples: <The lodge|hosts|fellowship events>;<The lodge|hosts|conclaves>;<The lodge|hosts|training events>;<The lodge|hosts|an annual family banquet>;<The lodge|supports|the council activities at Council-run events>;
+Sentence: One of its international specialists , Steve White , took a quick interest in Mr. Stoll 's hunt , ultimately tracing the hacker to West Germany .
+Triples: <Steve White|is|One of its international specialists>;<Steve White|took a quick interest in|Mr. Stoll 's hunt>;<Mr. Stoll|had|a hunt>;<Steve White|ultimately traced|the hacke>;
+Sentence: On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+Triples: <Tuqiri|was officially named as|a replacement for the injured Jarryd Hayn>;<Jarryd Hayne|was injured|>;
+Sentence: An `` Dangaioh '' adventure game was released for the PC-8801 in Japan in April 1990 .
+Triples: < Dangaioh | is | an adventure game>;<An `` Dangaioh '' adventure game | was released for |the PC-8801>;
+Sentence: On 15 January 1999 , Senchuk was appointed as governor of the Lviv region ; for some time he combined two posts .
+Triples: <Senchuk|was appointed as|governor o>;<Senchuk|combined|two post>;
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+
+Sentence: Many of the enthusiastic young `` Moonies '' of the Nixon era who remained faithful to Father Moon are now parents , producing new members by procreation rather than conversion .
+Triples: <enthusiastic young `` Moonies ''|are of|the Nixon era>;<`` Moonies '' of the Nixon era|are enthusiastic|>;<`` Moonies '' of the Nixon era|are young|>;<`` Moonies ''|are faithful to|Father Moon>;<Many of the enthusiastic young `` Moonies '' of the Nixon era who remained faithful to Father Moon|are|parent>;<Many of the enthusiastic young `` Moonies '' of the Nixon era who remained faithful to Father Moon|are producing by procreation|new member>;<Many of the enthusiastic young `` Moonies '' of the Nixon era who remained faithful to Father Moon|are producing rather than by conversion|new member>;
+Sentence: Ms. Shere has offered a $ 500 reward for the book 's return but figures she 'll have to reinvent many recipes from scratch .
+Triples: <Ms. Shere|has offered for the book 's return|a $ 500 reward>;<Ms. Shere|figures|she 'll have to reinvent many recipes from scratch>;<the book|has|many recipes>;
+Sentence: They have a large range of possible power supplies , and can be 380V , 1000V , or even higher .
+Triples: <They|have a large range of|possible power supplies>;<They|can be|380V>;<They|can be|1000V>;<They|can be|even higher>;
+Sentence: In recent years , demand for hybrid seeds has spurred research at a number of chemical and biotechnology companies , including Monsanto Co. , Shell Oil Co. and Eli Lilly & Co .
+Triples: <demand|is for|hybrid seed>;<demand for hybrid seeds|has spurred research at|chemical companie>;<demand for hybrid seeds|has spurred research at|biotechnology companie>;<demand for hybrid seeds|has spurred research at|a number of companie>;<a number of chemical and biotechnology companies|is including|Monsanto Co.>;<a number of chemical and biotechnology companies|is including|Shell Oil Co.>;<a number of chemical and biotechnology companies|is including|Eli Lilly & Co>;<demand for hybrid seeds|has spurred research at|Monsanto Co>;<demand for hybrid seeds|has spurred research at|Shell Oil Co>;<demand for hybrid seeds|has spurred research at|Eli Lilly & C>;
+Sentence: Crime Master slashes her when he finds out about this , but before passing out , she alerts the FBI that he is in league with Otto Octavius and his inhumane experiments .
+Triples: <Crime Master|slashes|he>;<Crime Master|finds out about|this>;<she|alerts that he is in league with Otto Octavius and his inhumane experiments|the FB>;<she|was passing out|>;<Otto Octavius|has|inhumane experiments>;
+Sentence: The strike obtained political support from the Political Affairs Committee , and the workers were addressed at numerous public meetings by Dr. Cheddi Jagan , Janet Jagan and leaders of the GIWU .
+Triples: <Dr. Cheddi Jagan , Janet Jagan and leaders of the GIWU|addressed|the workers at numerous public meetings>;<The strike|obtained|political support from the Political Affairs Committee>;<the workers|were addressed|by Dr. Cheddi Jagan , Janet Jagan and leaders of the GIWU>;<the workers|had a|strike>;<The strike|had|numerous public meetings>;<The strike|obtained|political support from Dr. Cheddi Jagan , Janet Jagan and leaders of the GIWU>;
+Sentence: A dam on the creek has created a lake covering for fishing , boating , and swimming .
+Triples: <A dam on the creek|has created | a lake covering>;<A dam on the creek|has created | a lake covering for fishing>;<A dam on the creek|has created | a lake covering for boating>;<A dam on the creek|has created | a lake covering for swimming>;
+Sentence: The Bears would have to wait until 2000 to play another international , when they played France in the lead-up to the 2000 Rugby League World Cup .
+Triples: <The Bears|would have to wait to play|another internationa>;<The Bears|played|Franc>;<The Bears|played in the lead-up to|the 2000 Rugby League World Cu>;
+
+Sentence: The first , at a severity of Mw 6.0 , occurred on May 26 , 1994 .
+Triples: <The first|occurred on|May 26 , 1994>;<The first|had a severity of|Mw 6.>;
+Sentence: The 10.48 % yield represents a spread to the 20 - year Treasury of 2.45 percentage points .
+Triples: <The yield|is|10.48 %>;<The 10.48 % yield|represents a spread to the 20 - year Treasury of|2.45 percentage points>;
+Sentence: The drop marked the largest monthly tumble since a 19 % slide in January 1982 .
+Triples: <a 19 % slide|was|the monthly tumbl>;<The drop|marked|the largest monthly tumbl>;
+Sentence: The company has $ 1 billion in debt filed with the Securities and Exchange Commission .
+Triples: <The company|has|$ 1 billion in debt>;<$ 1 billion in company debt|is filed with|the Securities and Exchange Commission>;
+Sentence: By the end of this experiment several results were found .
+Triples: <several results|were found|By the end of this experiment>;<this experiment|had|several results>;
+Sentence: Mr. Baker found an opening under the house that led to a fume - filled coal mine .
+Triples: <Mr. Baker|found|an openin>;<an opening|led to|a fume - filled coal min>;<a coal mine|was|fume - filled>;
+Sentence: The district also provides recreation and leisure services to many non-residents of the area on a fee basis .
+Triples: <The district|also provides to many non-residents of the area on a fee basis|recreation services>;<The district|also provides to many non-residents of the area on a fee basis|leisure services>;
+Sentence: Byrom Street Cutting became a runaway catch point for runaway trains in the tunnel .
+Triples: <Byrom Street Cutting|became|a runaway catch point for runaway train>;<Byrom Street Cutting|is|a runaway catch point for runaway train>;
+
+Sentence: There were 22.2 % of families and 23.8 % of the population living below the poverty line , including 15.8 % of under eighteens and 37.5 % of those over 64 .
+Triples: <22.2 % of families|were living below|the poverty line>;<23.8 % of the population|were living below|the poverty line>;<15.8 % of under eighteens|were living below|the poverty line>;<37.5 % of those over 64|were living below|the poverty line>;<23.8% of the population living below the poverty line|was including|15.8 % of under eighteens>;<23.8% of the population living below the poverty line|was including|37.5 % of those over 64>;
+Sentence: The power cepstrum of a signal is defined as the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal .
+Triples: <The power cepstrum of a signal|is defined as|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;<a signal|has|a power cepstrum>;<The power cepstrum|is|the squared magnitude of the inverse Fourier transform of the logarithm of the squared magnitude of the Fourier transform of a signal>;
+Sentence: The Lletty Shenkin explosion of 1849 , in particular , led to demands the local middle classes in Aberdare , for improved safety in the mines .
+Triples: <The explosion|was|at Lletty Shenki>;<The Lletty Shenkin explosion of 1849|led to demands for|improved safety in the mines>;<The Lletty Shenkin explosion of 1849|led to demands by|the local middle classes in Aberdare>;<the local middle classes|were in|Aberdare>;
+Sentence: It is possible that , in perpetuating such myths , the ground is being laid for the arrest of opposition activists on the ground of terrorism .
+Triples: <the ground|is being laid for|the arrest of opposition activists>;<the arrest of opposition activists|will be on the ground of|terrorism>;<such myths|are perpetuating|>;<It is possible that|in perpetuating such myths|the ground is being laid for the arrest of opposition activists on the ground of terrorism>;
+Sentence: Consistent with systems philosophy , systems thinking concerns an understanding of a system by examining the linkages and interactions between the elements that compose the entirety of the system .
+Triples: <systems thinking|concerns an understanding of a system by examining|the linkages between the elements that compose the entirety of the system>;<systems thinking|concerns an understanding of a system by examining|the interactions between the elements that compose the entirety of the system>;<systems thinking|is Consistent with|systems philosophy>;
+Sentence: In October 2008 , Bond apologized to former U.S. Attorney Todd Graves , after a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Graves .
+Triples: <Bond|apologized to|former U.S. Attorney Todd Grave>;<Todd Graves|is|a former U.S. Attorney>;<Todd Graves|was|Attorne>;<a U.S. Justice Department report|cited Bond for forcing Graves out over|a disagreement with Representative Sam Graves>;<Bond|forced out over a disagreement|Graves>;<Graves|had a disagreement with|Representative Sam Graves>;<Sam Graves|is|a Representative>;<Bond|apologized|a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Grave>;
+Sentence: The Commissioner of Parks and Public Property heads one of the departments in those local governments in New Jersey that operate under the Walsh Act form of municipal governance .
+Triples: <The Commissioner of Parks and Public Property|heads|one of the departments in those local governments that operate under the Walsh Act form of municipal governanc>;<local governments|operate under|the Walsh Act form of municipal governanc>;<the Walsh Act form|is of|municipal governance>;<The Commissioner|is of|Parks>;<The Commissioner|is of|Public Property>;
+Sentence: It was united with the Clitheroe Rural District , as part of the Ribble Valley district in the non-metropolitan county of Lancashire .
+Triples: <It|was united with|the Clitheroe Rural District as part of the Ribble Valley distric>;<It|was united with|the Clitheroe Rural Distric>;<the Clitheroe Rural District|is part of|the Ribble Valley distric>;<the Ribble Valley district|is part of|the non-metropolitan county of Lancashir>;
+
+Sentence: In 1891 , the academy moved to the German-English Academy Building in downtown Milwaukee .
+Triples: <the academy|moved to|the German-English Academy Building in downtown Milwauke>;<the German-English Academy Building|is in|downtown Milwaukee>;
+Sentence: In England , emphasis was placed on the orientation of the chapels to the east .
+Triples: <emphasis|was placed on|the orientation of the chapels to the eas>;
+Sentence: In 1958 , he won gold medal at the 6th European Championships in Stockholm .
+Triples: <he|won|gold meda>;<the 6th European Championships|were in|Stockholm>;
+Sentence: In 1845 , he was chosen Chief Justice of the Court of Queen 's Bench .
+Triples: <he|was chosen|Chief Justice of the Court of Queen 's Benc>;
+Sentence: In Taiwan , the locals speak a version of the Minnan language which is called Taiwanese .
+Triples: <the locals|speak|a version of the Minnan languag>;<a version of the Minnan language|is called|Taiwanes>;<the locals|speak|Taiwanes>;<Taiwanese|is|a version of the Minnan languag>;
+Sentence: On 1 July 1955 he was made an Officer of the Order of St John .
+Triples: <he|was made|an Officer of the Order of St Joh>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: As a result , environmental factors are also understood to contribute heavily to the strength of intimate relationships .
+Triples: < environmental factors  |are also understood to |  contribute heavily to the strength of intimate relationships >;< environmental factors  |are also understood to contribute heavily to|  the strength of intimate relationships >;
+
+Sentence: Often , objects are so far away that they do not contribute significantly to the final image .
+Triples: <objects|are|so far awa>;<objects that are so far away|do not contribute significantly to|the final imag>;
+Sentence: Alexander supposedly said after this incident that he had never been so lucky in his entire career .
+Triples: <Alexander |supposedly said | that he had never been so lucky in his entire career>;
+Sentence: As a result , environmental factors are also understood to contribute heavily to the strength of intimate relationships .
+Triples: < environmental factors  |are also understood to |  contribute heavily to the strength of intimate relationships >;< environmental factors  |are also understood to contribute heavily to|  the strength of intimate relationships >;
+Sentence: In 1958 , he won gold medal at the 6th European Championships in Stockholm .
+Triples: <he|won|gold meda>;<the 6th European Championships|were in|Stockholm>;
+Sentence: Like most incarnations , Felicia has a relationship with Spider-Man Noir .
+Triples: <Felicia|has a relationship with|Spider-Man Noir>;<Felicia|has|a relationship with Spider-Man Noir>;<Felicia|is Like|most incarnations>;<Felicia|has , Like most incarnations , a relationship with|Spider-Man Noir>;
+Sentence: In 1984 , KOMO became the first television station to broadcast daily programming in full stereo sound .
+Triples: <KOMO|became|the first television station to broadcast daily programming in full stereo soun>;<KOMO|is|a television station>;<KOMO|broadcast in full stereo sound|daily programmin>;
+Sentence: In 1914 , the BSA gave local councils the power to segregate African Americans from white Scouts .
+Triples: <the BSA|gave the power to segregate African Americans from white Scouts to|local council>;<the BSA|gave|the power to segregate African Americans from white Scouts to local council>;
+Sentence: In `` The Scarpetta Factor , '' she is working full-time and Wesley is working part-time in New York .
+Triples: <she|is working In `` The Scarpetta Factor ''|full-tim>;<Wesley|is working In `` The Scarpetta Factor ''|part-tim>;<she|is In|`` The Scarpetta Factor ''>;<Wesley|is In|`` The Scarpetta Factor ''>;
+
+Sentence: As a result , environmental factors are also understood to contribute heavily to the strength of intimate relationships .
+Triples: < environmental factors  |are also understood to |  contribute heavily to the strength of intimate relationships >;< environmental factors  |are also understood to contribute heavily to|  the strength of intimate relationships >;
+Sentence: This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+Triples: <This church|has undergone|a radical transformatio>;<This church|is of|medieval origin>;<This church|is a|building>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: In 1891 , the academy moved to the German-English Academy Building in downtown Milwaukee .
+Triples: <the academy|moved to|the German-English Academy Building in downtown Milwauke>;<the German-English Academy Building|is in|downtown Milwaukee>;
+Sentence: Like most incarnations , Felicia has a relationship with Spider-Man Noir .
+Triples: <Felicia|has a relationship with|Spider-Man Noir>;<Felicia|has|a relationship with Spider-Man Noir>;<Felicia|is Like|most incarnations>;<Felicia|has , Like most incarnations , a relationship with|Spider-Man Noir>;
+Sentence: Unlike most economic indicators , none of these figures are adjusted for seasonal variations .
+Triples: <none of these figures|are adjusted for|seasonal variations>;<most economic indicators|are adjusted for|seasonal variations>;<these figures|are Unlike|most economic indicators>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: In major market activity : Stock prices rose in light trading .
+Triples: <In major market activity : Stock prices|rose in light|trading>;
+
+Sentence: Instead of ablating the tissue , the laser cuts a portion of the prostate , which is then cut into smaller pieces and flushed with irrigation fluid .
+Triples: <the laser|cuts a portion of|the prostate>;<the laser|cuts Instead of ablating|the tissue>;<a portion of the prostate|is cut into|smaller piece>;<a portion of the prostate|is flushed with|irrigation flui>;
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: Indeed , the `` art of doctoring '' does contribute to better health results and discourages unwarranted malpractice litigation .
+Triples: <the `` art of doctoring ''|does Indeed contribute to|better health results>;<the `` art of doctoring ''|Indeed discourages|unwarranted malpractice litigation>;
+Sentence: In 1577 , she unsuccessfully proposed to the city council that it should establish a home for poor women , of which she would become the administrator .
+Triples: <she|unsuccessfully proposed that|city council should establish a home for poor wome>;<she|would become|the administrator of a home for poor women>;<she|unsuccessfully proposed to|the city counci>;
+Sentence: During the latter , Springsteen mentioned he did plan to work with the E Street Band again in the future , but was vague about details .
+Triples: <Springsteen|mentioned|he did plan to work with the E Street Ban>;<Springsteen|was vague|about details>;
+Sentence: In 1717 Lady Mary Wortley Montagu observed the practice in Istanbul and attempted to popularize it in Britain , but encountered considerable resistance .
+Triples: <Lady Mary Wortley Montagu|observed|the practic>;<Lady Mary Wortley Montagu|attempted to popularize|the practic>;<Lady Mary Wortley Montagu|encountered|considerable resistanc>;<considerable resistance|was to popularize|the practic>;<Mary Wortley Montagu|was|a Lady>;
+Sentence: Millais painted daily into the winter putting lamps under the tub to warm the water .
+Triples: <Millais|painted|daily into the winter>;<Millais|was putting to warm the water|lamp>;
+Sentence: At this point , the player confronts a boss , who is usually considerably larger and tougher than regular enemies .
+Triples: <the player|confronts|a bos>;<the boss|is usually|considerably larger than regular enemie>;<the boss|is usually|considerably tougher than regular enemie>;
+
+Sentence: On 12 July 2006 , Hezbollah launched a series of rocket attacks and raids into Israeli territory , where they killed three Israeli soldiers and captured a further two .
+Triples: <Hezbollah|launched|a series of rocket attack>;<Hezbollah|launched|a series of raid>;<a series of rocket attacks and raids|killed|three Israeli soldier>;<a series of rocket attacks and raids|captured|a further two Israeli soldier>;<Hezbollah|killed|three Israeli soldier>;<Hezbollah|captured|a further two Israeli soldier>;
+Sentence: On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+Triples: <Tuqiri|was officially named as|a replacement for the injured Jarryd Hayn>;<Jarryd Hayne|was injured|>;
+Sentence: He returned to Cleveland , working in clubs as a singer , dancer , and comedian , often appearing in character as Prince DuMarr .
+Triples: <He|returned to|Cleveland>;<He returned to Cleveland|working in clubs as a|singer>;<He returned to Cleveland|working in clubs as a|dancer>;<He returned to Cleveland|working in clubs as a|comedian>;<He|often appeared in character as|Prince DuMarr>;
+Sentence: Unsure of who he is , Zero helps the band of Reploids , who in turn marvel at his skills .
+Triples: <Zero|helps|the band of Reploids>;<Zero|is Unsure of|who he is>;<the band of Reploids|marvel at|his skills>;
+Sentence: One of its international specialists , Steve White , took a quick interest in Mr. Stoll 's hunt , ultimately tracing the hacker to West Germany .
+Triples: <Steve White|is|One of its international specialists>;<Steve White|took a quick interest in|Mr. Stoll 's hunt>;<Mr. Stoll|had|a hunt>;<Steve White|ultimately traced|the hacke>;
+Sentence: At this point , the player confronts a boss , who is usually considerably larger and tougher than regular enemies .
+Triples: <the player|confronts|a bos>;<the boss|is usually|considerably larger than regular enemie>;<the boss|is usually|considerably tougher than regular enemie>;
+Sentence: In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+Triples: <King|has|many writings>;<King|has|a grandmother>;<King|often refers to|the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmothe>;<King's grandmother|has|snobbish behavior>;<contradictions|are|comical>;<King's upbringing|has|material reality>;
+Sentence: Within England and especially Scotland , there were repeated attempts by the deposed House of Stewart to regain the throne , leading to severe uprisings .
+Triples: <repeated attempts|were to regain|the throne>;<repeated attempts to regain the throne|were by|the deposed House of Stewar>;<repeated attempts to regain the throne|were leading to|severe uprising>;
+
+Sentence: Unlike most economic indicators , none of these figures are adjusted for seasonal variations .
+Triples: <none of these figures|are adjusted for|seasonal variations>;<most economic indicators|are adjusted for|seasonal variations>;<these figures|are Unlike|most economic indicators>;
+Sentence: Like most incarnations , Felicia has a relationship with Spider-Man Noir .
+Triples: <Felicia|has a relationship with|Spider-Man Noir>;<Felicia|has|a relationship with Spider-Man Noir>;<Felicia|is Like|most incarnations>;<Felicia|has , Like most incarnations , a relationship with|Spider-Man Noir>;
+Sentence: Millais painted daily into the winter putting lamps under the tub to warm the water .
+Triples: <Millais|painted|daily into the winter>;<Millais|was putting to warm the water|lamp>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+Triples: <This church|has undergone|a radical transformatio>;<This church|is of|medieval origin>;<This church|is a|building>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: 11 million copies of the flyer were distributed to the public via an 85-newspaper distribution chain .
+Triples: <the flyer|were distributed |to the public>;
+Sentence: In Taiwan , the locals speak a version of the Minnan language which is called Taiwanese .
+Triples: <the locals|speak|a version of the Minnan languag>;<a version of the Minnan language|is called|Taiwanes>;<the locals|speak|Taiwanes>;<Taiwanese|is|a version of the Minnan languag>;
+
+Sentence: Graner handcuffed him to the bars of a cell window and left him there , feet dangling off the floor , for nearly five hours .
+Triples: <Graner|handcuffed|hi>;<Graner|left|hi>;<Graner|left handcuffed to|hi>;<Graner|left with feet dangling|hi>;<cell window|has|bars>;
+Sentence: A dam on the creek has created a lake covering for fishing , boating , and swimming .
+Triples: <A dam on the creek|has created | a lake covering>;<A dam on the creek|has created | a lake covering for fishing>;<A dam on the creek|has created | a lake covering for boating>;<A dam on the creek|has created | a lake covering for swimming>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: He was appointed Commander of the Order of the British Empire in the 1948 Queen 's Birthday Honours and was knighted in the 1953 Coronation Honours .
+Triples: <He|was appointed|Commander of the Order of the British Empir>;<He|was knighted|Coronation Honour>;<He|is|Commander of the Order of the British Empire>;
+Sentence: In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+Triples: <King|has|many writings>;<King|has|a grandmother>;<King|often refers to|the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmothe>;<King's grandmother|has|snobbish behavior>;<contradictions|are|comical>;<King's upbringing|has|material reality>;
+Sentence: The origin of the Missionaries of the Sacred Heart is closely connected with the definition of the dogma of the Immaculate Conception of the B. V. M .
+Triples: <The origin of the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;<the Missionaries of the Sacred Heart|is closely connected with|the definition of the dogma of the Immaculate Conception of the B. V. M>;
+Sentence: These include any Assistant to the President , Deputy Assistant to the President , and Special Assistant to the President .
+Triples: <These|include|any Assistant to the President>;<These|include|any Deputy Assistant to the President>;<These|include|any Special Assistant to the President>;
+
+Sentence: Local football team Ammanford A.F.C. play in the Welsh Football League Second Division , while rugby union team Ammanford RFC were formed in 1887 and play in the Welsh Rugby Union leagues .
+Triples: <Local football team Ammanford A.F.C.|play in|the Welsh Football League Second Division>;<rugby union team Ammanford RFC|play in|the Welsh Rugby Union leagues>;<rugby union team Ammanford RFC|were formed in|1887>;<Ammanford A.F.C.|is|a Local football team>;<Ammanford RFC|is|a rugby union team>;
+Sentence: By opening for acts such as U2 and Bob Dylan , they became a popular alternative rock band of the 1980s , retaining a loyal following to the present day .
+Triples: <they|were opening for|acts such as U2 and Bob Dylan>;<they|became|a popular alternative rock band of the 1980s>;<they|are retaining|a loyal following to the present day>;<they|were|an alternative rock band of the 1980s>;
+Sentence: Graner handcuffed him to the bars of a cell window and left him there , feet dangling off the floor , for nearly five hours .
+Triples: <Graner|handcuffed|hi>;<Graner|left|hi>;<Graner|left handcuffed to|hi>;<Graner|left with feet dangling|hi>;<cell window|has|bars>;
+Sentence: Through the first nine months of the year , the unadjusted total of all new construction was $ 199.6 billion , flat compared with a year earlier .
+Triples: <the unadjusted total of all new construction|was|$ 199.6 billio>;<the unadjusted total of all new construction|was flat compared with|a year earlier>;
+Sentence: Following the decision to withdraw tram services in London and replace them with buses , the station closed just after 12.30 am on 6 April 1952 .
+Triples: <the station|closed|just after 12.30 am on 6 April 1952>;<the station|closed Following|the decision to withdraw tram services in London and replace them with buses>;<the decision|was to withdraw|tram service>;<the decision|was to replace with buses|tram service>;
+Sentence: After the GASB was founded in 1984 , 11 years after the FASB , the government - owned entities were supposed to follow FASB rules unless the GASB superceded them .
+Triples: <the GASB|was founded in|1984>;<the GASB|was founded|11 years after the FASB>;<1984|was|11 years after the FASB was founded>;<the government - owned entities|were supposed to follow unless the GASB superceded them|FASB rule>;
+Sentence: Charles had concerns about being able to declare his belief in all the dogmas of the Church of England , so as well as hunting and fishing , he studied divinity books .
+Triples: <Charles|as well studied|divinity books>;<Charles|was hunting|>;<Charles|was fishing|>;<Charles|had concerns about being able to declare|his belief in all the dogmas of the Church of England>;<the Church of England|had|dogmas>;
+Sentence: Spielberger was formerly Chairman of the Psychology Department at the University of South Florida in Tampa , Florida and in 2012 belonged to a think tank there .
+Triples: <Spielberger|was|Chairman of the Psychology Departmen>;<Spielberger|belonged to|a think tan>;<University of South Florida|is in|Tampa , Florida>;<Tampa|is in|Florida>;<a think tank|is at|the University of South Florida in Tampa , Florida>;
+
+Sentence: These include any Assistant to the President , Deputy Assistant to the President , and Special Assistant to the President .
+Triples: <These|include|any Assistant to the President>;<These|include|any Deputy Assistant to the President>;<These|include|any Special Assistant to the President>;
+Sentence: During the language shift , however , the receding language A still influences language B .
+Triples: <the receding language A|still influences|language B>;
+Sentence: He will concentrate on , among others , J.P. Morgan and Hyundai .
+Triples: <He|will concentrate on , among others|J.P. Morgan>;<He|will concentrate on , among others|Hyundai>;<He|will concentrate on|others>;
+Sentence: About 60 % of the work force will continue with Gillette or transfer to Twins Pharmaceuticals , the company said .
+Triples: <the company|said|About 60 % of the work force will continue with Gillette or transfer to Twins Pharmaceuticals>;<About 60 % of the work force|will continue with Gillette or transfer to|Twins Pharmaceutical>;<About 60 % of the work force|will continue with|Gillette or transfer to Twins Pharmaceutical>;
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: They have a large range of possible power supplies , and can be 380V , 1000V , or even higher .
+Triples: <They|have a large range of|possible power supplies>;<They|can be|380V>;<They|can be|1000V>;<They|can be|even higher>;
+Sentence: The network must refund money to the advertisers and loses considerable revenue and prestige .
+Triples: <The network|must refund money to the|advertisers>;<The network|loses|considerable revenue and prestige>;<The network|loses|considerable revenue>;<The network|loses|prestige>;
+Sentence: The RTC will have to sell or merge hundreds of insolvent thrifts over the next three years .
+Triples: <The RTC|will have to sell or merge|hundreds of insolvent thrift>;<hundreds of thrifts|are|insolvent>;
+
+Sentence: She resigns after the events of `` The Last Precinct '' and relocates to Florida to become a private forensic consultant .
+Triples: <She|resigns|after the events of `` The Last Precinct ''>;<She|relocates to|Florida>;<She|becomes|a private forensic consultan>;<`` The Last Precinct ''|had|events>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: Until its 2007 acquisition by Tavistock Group , Freebirds World Burrito had its corporate headquarters in College Station .
+Triples: <Freebirds World Burrito|had an acquisition by|Tavistock Grou>;<Freebirds World Burrito|had|corporate headquarter>;
+Sentence: On a 394 - 21 roll call , the House adopted the underlying transportation measure .
+Triples: <the House|adopted On a 394 - 21 roll call|the underlying transportation measure>;<the transportation measure|was underlying|>;<the House|had|a 394 - 21 roll call>;
+Sentence: In the first volume of the series , The Noh 's nature and background is explained .
+Triples: <The Noh 's nature|is explained In|the first volume of the series>;<The Noh 's background|is explained In|the first volume of the series>;
+Sentence: He had been at the Battle of the Granicus River , and had believed that Memnon 's scorched Earth strategy would work here .
+Triples: <He|had been at|the Battle of the Granicus River>;<He|had believed that|Memnon 's scorched Earth strategy would work at the Battle of the Granicus River>;<Memnon|had|a scorched Earth strategy>;
+Sentence: During the language shift , however , the receding language A still influences language B .
+Triples: <the receding language A|still influences|language B>;
+Sentence: This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+Triples: <This church|has undergone|a radical transformatio>;<This church|is of|medieval origin>;<This church|is a|building>;
+
+Sentence: Their purpose is to be fair to both parties , disallowing the raising of allegations without a basis in provable fact .
+Triples: <Their purpose|is to be fair to|both parties>;<disallowing the raising of allegations without a basis in provable fact|is fair to|both parties>;<They|are disallowing the raising of allegations without|a basis in provable fact>;
+Sentence: In particular , her grandmother required high standards of behavior from Florence , referring to the family as descendants of Virginia 's colonial elite .
+Triples: <her grandmother|required from Florence|high standards of behavior>;<Florence|had|grandmother>;<her grandmother|was referring to the family as|descendants of Virginia 's colonial elite>;<colonial elite|were in|Virginia>;
+Sentence: A year later , he was appointed Attorney-General for Ireland and on this occasion was sworn of the Privy Council of Ireland .
+Triples: < he | was appointed | Attorney-General for Ireland>;< he | was sworn of| the Privy Council of Ireland>;
+Sentence: It was united with the Clitheroe Rural District , as part of the Ribble Valley district in the non-metropolitan county of Lancashire .
+Triples: <It|was united with|the Clitheroe Rural District as part of the Ribble Valley distric>;<It|was united with|the Clitheroe Rural Distric>;<the Clitheroe Rural District|is part of|the Ribble Valley distric>;<the Ribble Valley district|is part of|the non-metropolitan county of Lancashir>;
+Sentence: On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+Triples: <Tuqiri|was officially named as|a replacement for the injured Jarryd Hayn>;<Jarryd Hayne|was injured|>;
+Sentence: Davis released about 25 singles during his seven years with Dakar , most of them big R&B sellers produced by Willie Henderson .
+Triples: <Davis|released|about 25 single>;<Willie Henderson|produced|Davis big R&B sellers>;<most of Davis big R&B sellers|were produced|by Willie Henderso>;<most of Davis 25 singles|were produced|by Willie Henderso>;<most of Davis 25 singles|were|big R&B seller>;<Willie Henderson|produced|big R&B singles>;
+Sentence: Though this time , the Brumbies won , 47 to 38 in front of a record crowd at Canberra Stadium .
+Triples: <the Brumbies|won|47 to 3>;<the Brumbies|won in front of|a record crow>;
+Sentence: Walcott was brought on one knee in the third round and the fight ended with hardly a scratch on Langford .
+Triples: <Walcott|was brought on one knee|in the figh>;<in the fight|hardly a scratch on|Langford>;<the fight|ended with hardly a scratch on|Langford>;
+
+Sentence: Because of this association , St. Michael was considered to be the patron saint of colonial Maryland , and as such was honored by the river being named for him .
+Triples: <St. Michael|was considered to be|the patron saint of colonial Maryland>;<St. Michael|was honored|by the river being named for him>;
+Sentence: Instead of ablating the tissue , the laser cuts a portion of the prostate , which is then cut into smaller pieces and flushed with irrigation fluid .
+Triples: <the laser|cuts a portion of|the prostate>;<the laser|cuts Instead of ablating|the tissue>;<a portion of the prostate|is cut into|smaller piece>;<a portion of the prostate|is flushed with|irrigation flui>;
+Sentence: On 19 October 2010 , Tuqiri was officially named in the Australian squad for the Four Nations as a replacement for the injured Jarryd Hayne .
+Triples: <Tuqiri|was officially named as|a replacement for the injured Jarryd Hayn>;<Jarryd Hayne|was injured|>;
+Sentence: On 15 January 1999 , Senchuk was appointed as governor of the Lviv region ; for some time he combined two posts .
+Triples: <Senchuk|was appointed as|governor o>;<Senchuk|combined|two post>;
+Sentence: The final panel of the series shows her with a mask similar to Madame Masque , angrily refusing to see Spider-Man since she blames him for her scars .
+Triples: <The final panel of the series|shows her with|a mask similar to Madame Masque>;<The final panel of the series|shows her angrily refusing to see|Spider-Man>;<she|blames for her scars|Spider-Man>;<she|is angrily refusing since|she blames Spider-Man for her scars>;<Madame Masque|has|a mask>;<she|is shown with|a mask similar to Madame Masqu>;
+Sentence: He was appointed Commander of the Order of the British Empire in the 1948 Queen 's Birthday Honours and was knighted in the 1953 Coronation Honours .
+Triples: <He|was appointed|Commander of the Order of the British Empir>;<He|was knighted|Coronation Honour>;<He|is|Commander of the Order of the British Empire>;
+Sentence: In 1879 , he was re-elected U.S. Senator and was tipped as a Presidential candidate , but died suddenly after giving a speech in Chicago .
+Triples: <he|was re-elected|Senato>;<he|was tipped as|a Presidential candidat>;<he|died suddenly|In 1879>;<he|died after giving|a speec>;
+Sentence: On April 13 , 1987 , the Iowa Terminal Railroad was sold to Dave Johnson and renamed to Iowa Traction Railroad .
+Triples: <the Iowa Terminal Railroad|was sold to|Dave Johnso>;<the Iowa Terminal Railroad|was renamed to|Iowa Traction Railroa>;<the Terminal Railroad|is in|Iowa>;
+
+Sentence: In that decision , the high court said a company must prove that the government approved precise specifications for the contract , that those specifications were met and that the government was warned of any dangers in use of the equipment .
+Triples: <the high court|said|a company must prove that the government approved precise specifications for the contract , that those specifications were met and that the government was warned of any dangers in use of the equipment>;<a company|must prove|that the government approved precise specifications for the contrac>;<a company|must prove|that those specifications were me>;<a company|must prove|that the government was warned of any dangers in use of the equipmen>;
+Sentence: In 1577 , she unsuccessfully proposed to the city council that it should establish a home for poor women , of which she would become the administrator .
+Triples: <she|unsuccessfully proposed that|city council should establish a home for poor wome>;<she|would become|the administrator of a home for poor women>;<she|unsuccessfully proposed to|the city counci>;
+Sentence: In many of her writings , King often refers to the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmother .
+Triples: <King|has|many writings>;<King|has|a grandmother>;<King|often refers to|the comical contradictions between the material reality of her upbringing and the snobbish behavior of her grandmothe>;<King's grandmother|has|snobbish behavior>;<contradictions|are|comical>;<King's upbringing|has|material reality>;
+Sentence: On 12 July 2006 , Hezbollah launched a series of rocket attacks and raids into Israeli territory , where they killed three Israeli soldiers and captured a further two .
+Triples: <Hezbollah|launched|a series of rocket attack>;<Hezbollah|launched|a series of raid>;<a series of rocket attacks and raids|killed|three Israeli soldier>;<a series of rocket attacks and raids|captured|a further two Israeli soldier>;<Hezbollah|killed|three Israeli soldier>;<Hezbollah|captured|a further two Israeli soldier>;
+Sentence: In 1879 , he was re-elected U.S. Senator and was tipped as a Presidential candidate , but died suddenly after giving a speech in Chicago .
+Triples: <he|was re-elected|Senato>;<he|was tipped as|a Presidential candidat>;<he|died suddenly|In 1879>;<he|died after giving|a speec>;
+Sentence: This work introduced the - fstack-protector flag , which protects only some vulnerable functions , and the - fstack-protector-all flag , which protects all functions whether they need it or not .
+Triples: <This work|introduced|the - fstack-protector flag>;<the - fstack-protector flag|protects|only some vulnerable functions>;<This work|introduced|the - fstack-protector-all flag>;<the - fstack-protector-all flag|protects whether they need it|all functions>;<the - fstack-protector-all flag|protects whether they need it not|all functions>;<some functions|are|vulnerable>;
+Sentence: The spirits , of course , could hardly care less whether people do or do n't believe in them .
+Triples: <The spirits|could hardly care less whether|people do believe in them>;<The spirits|could hardly care less whether|people do n't believe in them>;
+Sentence: In October 2008 , Bond apologized to former U.S. Attorney Todd Graves , after a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Graves .
+Triples: <Bond|apologized to|former U.S. Attorney Todd Grave>;<Todd Graves|is|a former U.S. Attorney>;<Todd Graves|was|Attorne>;<a U.S. Justice Department report|cited Bond for forcing Graves out over|a disagreement with Representative Sam Graves>;<Bond|forced out over a disagreement|Graves>;<Graves|had a disagreement with|Representative Sam Graves>;<Sam Graves|is|a Representative>;<Bond|apologized|a U.S. Justice Department report cited Bond for forcing Graves out over a disagreement with Representative Sam Grave>;
+
+Sentence: Mr. Baker hears her out , pokes around a bit , asks a few questions and proposes some explanations .
+Triples: <Mr. Baker|hears|her out , pokes around a bit , asks a few questions proposes some explanations>;<Mr. Baker|hears her out,  pokes around a bit , asks a few questions and|proposes some explanations>;
+Sentence: The spirits , of course , could hardly care less whether people do or do n't believe in them .
+Triples: <The spirits|could hardly care less whether|people do believe in them>;<The spirits|could hardly care less whether|people do n't believe in them>;
+Sentence: Indeed , the `` art of doctoring '' does contribute to better health results and discourages unwarranted malpractice litigation .
+Triples: <the `` art of doctoring ''|does Indeed contribute to|better health results>;<the `` art of doctoring ''|Indeed discourages|unwarranted malpractice litigation>;
+Sentence: The narrator does not end up being sexually assaulted ; instead , she has grabbed her suitcase and fled the compartment .
+Triples: <The narrator|does not end up being sexually assaulted|>;<The narrator|instead has grabbed|her suitcase>;<The narrator|instead has fled|the compartment>;<she|is|The narrator>;
+Sentence: In 1962 , Salahuddin won from Patharghatti assembly seat as an Independent candidate and later from Charminar constituency in 1967 .
+Triples: <Salahuddin|won from|Patharghatti assembly sea>;<Salahuddin|won as|an Independent candidat>;<Salahuddin|won from|Charminar constituenc>;<Patharghatti|has|an assembly seat>;<Charminar|has|a constituency>;
+Sentence: About 800 have crossed the picket lines and returned to work .
+Triples: <About 800|have crossed|the picket lines>;<About 800|have returned|to work>;
+Sentence: During the language shift , however , the receding language A still influences language B .
+Triples: <the receding language A|still influences|language B>;
+Sentence: In 1840 , he was appointed to command his regiment , a post he held for nearly fourteen years .
+Triples: <he|was appointed to command|his regimen>;<he|held|the pos>;<the post|was|to command his regiment>;
+
+Sentence: According to available information , the Maoists of Nepal have well-established linkages with Indian revolutionary communist organizations , primarily with the Communist Party of India , currently leading a protracted `` people 's war '' throughout the subcontinent .
+Triples: <the Maoists of Nepal|According to available information have well-established linkages with|Indian revolutionary communist organizations>;<the Maoists of Nepal|According to available information have well-established linkages primarily with|the Communist Party of India>;<the Maoists of Nepal|According to available information are leading|a protracted `` people 's war '>;
+Sentence: Mr. Bickwit said , `` I can see why an S&L examiner would regard these as unusual activities , '' but said the overseas investments `` essentially broke even '' for the S&L .
+Triples: <Mr. Bickwit|said|I can see why an S&L examiner would regard these as unusual activities>;<Mr. Bickwit|said|the overseas investments `` essentially broke even '' for the S&L>;<I|can see why|an S&L examiner would regard these as unusual activitie>;<the overseas investments|`` essentially broke even ''|for the S&>;
+Sentence: US 258 and the two state highways cross the Tar River on the freeway , then exit US 64 onto Mutual Boulevard at a partial interchange on the east side of the river in Princeville .
+Triples: <US 258 and the two state highways|cross|the Tar River on the freeway , then exit US 64 onto Mutual Boulevar>;<US 258 and the two state highways|cross the Tar River on the freeway , then exit|US 6>;<US 258|cross|the Tar River on the freeway , then exit US 64 onto Mutual Boulevar>;<the two state highways|cross|the Tar River on the freeway , then exit US 64 onto Mutual Boulevar>;<US 258|cross|the Tar Rive>;<the two state highways|cross|the Tar Rive>;<US 64|goes to|Mutual Boulevar>;<Princeville|has|a river>;<Princeville|has|a Mutual Boulevard>;
+Sentence: In line this with , Edwards 's early years , as seen in Comico 's graphic novel , were re-imagined in the comic book mini-series , `` Robotech : From the Stars '' , published WildStorm .
+Triples: <Edwards 's early years|were re-imagined in|the comic book mini-series , `` Robotech : From the Stars ''>;<`` Robotech : From the Stars ''|was published by|WildStorm>;<`` Robotech : From the Stars ''|is|a comic book mini-series>;<Edwards 's early years|were seen in|Comico 's graphic novel>;<Comico|had|a graphic novel>;<Edwards|had|early years>;
+Sentence: Historical buildings and monuments in Meaux are mainly located in the old city , inside the old defensive walls , still nowadays partially kept thanks to an important segment of the original surrounding wall from the Gallo-Roman period .
+Triples: <Historical buildings|are mainly located in|the old cit>;<monuments|are mainly located in|the old cit>;<Historical buildings|are mainly located in the old city inside|the old defensive wall>;<monuments|are mainly located in the old city inside|the old defensive wall>;<an important segment of the original surrounding wall|is from|the Gallo-Roman period>;
+Sentence: Under the agreement with the House and Senate leaders , the minimum wage would rise from the current $ 3.35 an hour to $ 4.25 an hour by April 1991 .
+Triples: <the minimum wage|would rise from|the current $ 3.35 an hour>;<the minimum wage|would rise to|$ 4.25 an hou>;<the minimum wage|is|$ 3.35 an hou>;<the minimum wage|will be|$ 4.25 an hou>;<the minimum wage|would rise Under|the agreement with the House and Senate leaders>;<the agreement|is with|the House and Senate leaders>;
+Sentence: He probably saw active service as a soldier for the Scottish forces in The Netherlands in the later 1570s , although there is no certain documentary evidence of this .
+Triples: <He|probably saw active service as|a soldier for the Scottish force>;<no certain documentary evidence|is there|of this>;<no certain documentary evidence|is there|that He saw active service as a soldier for the Scottish forces in The Netherlands in the later 1570s>;
+Sentence: One major difference between the two models is that the Photographic Model follows more of a step-by-step process in the development of flashbulb accounts , whereas the Comprehensive Model demonstrates an interconnected relationship between the variables .
+Triples: <the Photographic Model|follows in the development of flashbulb accounts|more of a step-by-step process>;<the Comprehensive Model|demonstrates|an interconnected relationship between the variables>;<One major difference|is between|the two models>;<the two models|are|the Photographic Model and the Comprehensive Model>;
+
+Sentence: Until its 2007 acquisition by Tavistock Group , Freebirds World Burrito had its corporate headquarters in College Station .
+Triples: <Freebirds World Burrito|had an acquisition by|Tavistock Grou>;<Freebirds World Burrito|had|corporate headquarter>;
+Sentence: This church is of medieval origin , the building has undergone a radical transformation in 1885 .
+Triples: <This church|has undergone|a radical transformatio>;<This church|is of|medieval origin>;<This church|is a|building>;
+Sentence: After a break of four years , he became a Lord Justice of Appeal .
+Triples: <he |became |a Lord Justice of Appeal>;<he |had |a break of four years >;
+Sentence: On a 394 - 21 roll call , the House adopted the underlying transportation measure .
+Triples: <the House|adopted On a 394 - 21 roll call|the underlying transportation measure>;<the transportation measure|was underlying|>;<the House|had|a 394 - 21 roll call>;
+Sentence: Orkem , France 's third - largest chemical group , said it would fund the acquisition through internal resources .
+Triples: <Orkem|is|France 's third - largest chemical group>;<Orkem|said|it would fund the acquisition through internal resources>;<it|would fund|the acquisitio>;
+Sentence: In 1862 , Henry Letheby obtained a partly conductive material by anodic oxidation of aniline in sulfuric acid .
+Triples: <Henry Letheby|obtained by anodic oxidation of aniline in sulfuric acid|a partly conductive materia>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+Sentence: Instead of having system calls specifically for process management , Plan 9 provides the codice_13 file system .
+Triples: <Plan 9|provides|the codice_13 file system>;<the codice_13 file system|is Instead of having|system calls specifically for process management>;
+
+Sentence: Mr. Baker hears her out , pokes around a bit , asks a few questions and proposes some explanations .
+Triples: <Mr. Baker|hears|her out , pokes around a bit , asks a few questions proposes some explanations>;<Mr. Baker|hears her out,  pokes around a bit , asks a few questions and|proposes some explanations>;
+Sentence: In 1984 , KOMO became the first television station to broadcast daily programming in full stereo sound .
+Triples: <KOMO|became|the first television station to broadcast daily programming in full stereo soun>;<KOMO|is|a television station>;<KOMO|broadcast in full stereo sound|daily programmin>;
+Sentence: At this point , the player confronts a boss , who is usually considerably larger and tougher than regular enemies .
+Triples: <the player|confronts|a bos>;<the boss|is usually|considerably larger than regular enemie>;<the boss|is usually|considerably tougher than regular enemie>;
+Sentence: In 1970 , Arad moved to the United States and enrolled at Hofstra University to study industrial management .
+Triples: <Arad|moved to|the United State>;<Arad|enrolled at|Hofstra Universit>;<Arad|will study|industrial managemen>;
+Sentence: During the language shift , however , the receding language A still influences language B .
+Triples: <the receding language A|still influences|language B>;
+Sentence: In 1914 , the BSA gave local councils the power to segregate African Americans from white Scouts .
+Triples: <the BSA|gave the power to segregate African Americans from white Scouts to|local council>;<the BSA|gave|the power to segregate African Americans from white Scouts to local council>;
+Sentence: On April 13 , 1987 , the Iowa Terminal Railroad was sold to Dave Johnson and renamed to Iowa Traction Railroad .
+Triples: <the Iowa Terminal Railroad|was sold to|Dave Johnso>;<the Iowa Terminal Railroad|was renamed to|Iowa Traction Railroa>;<the Terminal Railroad|is in|Iowa>;
+Sentence: After leaving , he tried to find acting jobs and worked as an Elvis impersonator for a short time .
+Triples: < he | worked as | an Elvis impersonator>;< he | tried to find | acting jobs>;
+
+Sentence: That method relies heavily on inductive logic , seeking to show that his Christian beliefs fit best with the evidence .
+Triples: <That method|relies heavily on|inductive logic , seeking to show that his Christian beliefs fit best with the evidence>;<He|was seeking to show that|his Christian beliefs fit best with the evidence>;<He was|relying heavily on|inductive logic to show that his Christian beliefs fit best with the evidence>;<He was|using|That method method that relies heavily on inductive logic>;<That method|relies heavily on|inductive logic>;<That method|relies heavily on inductive logic , seeking to show that|his Christian beliefs fit best with the evidence>;<That method|relies heavily on inductive logic , seeking to show that his Christian beliefs fit|best with the evidence>;
+Sentence: Japan 's No. 111 4.6 % bond due 1998 ended the day on brokers screens at 95.11 to yield 5.43 % .
+Triples: <Japan 's No. 111 4.6 % bond|is due|1998>;<Japan|has|No. 111 4.6 % bond>;<Japan 's No. 111 4.6 % bond due 1998|ended at|95.1>;<Japan 's No. 111 4.6 % bond due 1998|ended to yield|5.43 >;<brokers|have|screens>;<No. 111 4.6 % bond due 1998|is in|Japan>;
+Sentence: The number of ones equals the number of zeros plus one , since the state containing only zeros can not occur .
+Triples: <The number of ones|equals|the number of zeros plus one>;<the state containing only zeros|can not occur|>;
+Sentence: The Anti-Monitor began to siphon the positive matter of New York City to create his Antimatter waves .
+Triples: <The Anti-Monitor|began to siphon|the positive matter of New York City>;<the positive matter|was of|New York City>;<the positive matter of New York City|will be to create|The Anti-Monitor's Antimatter waves>;<The Anti-Monitor|has|Antimatter waves>;<the matter|is positive|of New York City>;
+Sentence: In 2004 the Oxford English University Press included Makaton as a common usage word in the Oxford English Dictionary .
+Triples: <the Oxford English University Press|included as a common usage word|Makato>;
+Sentence: The 10.48 % yield represents a spread to the 20 - year Treasury of 2.45 percentage points .
+Triples: <The yield|is|10.48 %>;<The 10.48 % yield|represents a spread to the 20 - year Treasury of|2.45 percentage points>;
+Sentence: Stock prices rallied as the Georgia - Pacific bid broke the market 's recent gloom .
+Triples: <Stock prices|rallied in|the marke>;<the Georgia - Pacific bid|broke|the market 's recent gloom>;<gloom|was in|the marke>;<Georgia - Pacific|had|a bid>;
+Sentence: Millais painted daily into the winter putting lamps under the tub to warm the water .
+Triples: <Millais|painted|daily into the winter>;<Millais|was putting to warm the water|lamp>;
+
+Sentence: This releases some of the water molecules into the bulk of the water , leading to an increase in entropy .
+Triples: <This|releases|some of the water molecule>;<This|is leading to|an increase in entropy>;<releasing some of the water molecules into the bulk of the water|is leading to|an increase in entropy>;
+Sentence: Pursuit of the routed enemy to the French border was halted on 2 May upon the German surrender in Italy .
+Triples: <the German surrender|was|in Ital>;<the routed enemy|was pursued to|the French border>;<Pursuit of the routed enemy to the French border|was halted|on 2 May>;<Pursuit of the routed enemy to the French border|was halted upon|the German surrender in Ital>;<the enemy|was routed|>;
+Sentence: Having returned to the Second Division at the first attempt , they gained promotion to the First Division in 1974 .
+Triples: <they|gained|promotion to the First Divisio>;<they|returned to|the Second Division at the first attempt>;
+Sentence: Courtelary is first mentioned in 968 as `` Curtis Alerici '' in a list of the properties of Moutier-Grandval Abbey .
+Triples: <Courtelary|is first mentioned as|`` Curtis Alerici '>;<Moutier-Grandval Abbey|has|properties>;<a list|is of|the properties of Moutier-Grandval Abbey>;
+Sentence: Hiester was born in Montgomery County , Pennsylvania on July 17 , 1749 , the son of German immigrants Daniel and Catherine Shuller Hiester .
+Triples: <Hiester|was born|in Montgomery County , Pennsylvani>;<Hiester|was the son of|German immigrant Daniel Hiester>;<Hiester|was the son of|German immigrant Catherine Shuller Hiester>;<Montgomery County|is in|Pennsylvania>;<Daniel Hiester|was|a German immigrant>;<Catherine Shuller Hiester|was|a German immigrant>;
+Sentence: The first , at a severity of Mw 6.0 , occurred on May 26 , 1994 .
+Triples: <The first|occurred on|May 26 , 1994>;<The first|had a severity of|Mw 6.>;
+Sentence: Jaguar shares closed at 869 pence , up 122 pence , on hefty turnover of 9.7 million shares .
+Triples: <Jaguar shares|closed at|869 pence>;<Jaguar shares|closed on hefty turnover of|9.7 million shares>;<Jaguar shares|were up|122 pence , on hefty turnover of 9.7 million shares>;
+Sentence: After the British capture of Madrid , Hill had responsibility for an army of 30,000 men .
+Triples: < Hill | had | responsibility for an army of 30,000 men>;
+
+Sentence: He further stated that Hauptmann looked different and that `` John '' was actually dead because he had been murdered by his confederates .
+Triples: <He|further stated that|Hauptmann looked different>;<He|further stated that|`` John '' was actually dead>;<He|further stated that|`` John '' had been murdered by his confederates>;<`` John ''|had|confederates>;
+Sentence: Back at the hotel , Taylor went ahead of Lemmy and told him `` Eddie 's left the band '' .
+Triples: <Taylor|told|hi>;<Eddie|has|left the ban>;<Taylor|went ahead of|Lemm>;
+Sentence: After leaving , he tried to find acting jobs and worked as an Elvis impersonator for a short time .
+Triples: < he | worked as | an Elvis impersonator>;< he | tried to find | acting jobs>;
+Sentence: Frowin founded the Benedictine monastery of New Engleberg at Conception , which was erected into an abbey in 1881 .
+Triples: <Frowin|founded|the Benedictine monastery of New Engleberg at Conception>;<the Benedictine monastery of New Engleberg at Conception|was erected into|an abbe>;
+Sentence: In recent years , Nissan has instituted flex - time work schedules and allowed employees to dress casually , even in blue jeans .
+Triples: <Nissan|has instituted|flex - time work schedule>;<Nissan|has allowed to dress casually|employee>;<Nissan|has allowed to dress even in blue jeans|employee>;
+Sentence: Unsure of who he is , Zero helps the band of Reploids , who in turn marvel at his skills .
+Triples: <Zero|helps|the band of Reploids>;<Zero|is Unsure of|who he is>;<the band of Reploids|marvel at|his skills>;
+Sentence: In 1984 , KOMO became the first television station to broadcast daily programming in full stereo sound .
+Triples: <KOMO|became|the first television station to broadcast daily programming in full stereo soun>;<KOMO|is|a television station>;<KOMO|broadcast in full stereo sound|daily programmin>;
+Sentence: In Taiwan , the locals speak a version of the Minnan language which is called Taiwanese .
+Triples: <the locals|speak|a version of the Minnan languag>;<a version of the Minnan language|is called|Taiwanes>;<the locals|speak|Taiwanes>;<Taiwanese|is|a version of the Minnan languag>;
+

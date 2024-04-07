@@ -1,0 +1,848 @@
+Sentence: Landrum has assured the medical board he will refresh his training with a medical record-keeping course .
+Triples: <Landrum|refresh|his training>;
+Sentence: Each of them would analyze a sentence such as this in a different manner .
+Triples: <Each of them|would analyze|a sentence such as this>;
+Sentence: Time is said to be the cause of continuity and succession .
+Triples: <Time|said|to be the cause of continuity and succession>;
+Sentence: Caesar now had a secure base from which to launch an invasion of Britain .
+Triples: <an invasion of Britain|launch|a secure base>;
+Sentence: The rich soil could help farmers grow enough crops to feed the people in the cities .
+Triples: <the people|feed|in the cities>;<rich soil|help|farmers>;<farmers|grow|crops>;
+Sentence: The United States has said they will still seek military action against the Syrian regime .
+Triples: <The United States|seek|military action against the Syrian regime>;
+Sentence: The 24-year-old had been monitoring potential symptoms of the disease .
+Triples: <The 24-year-old|monitoring|potential symptoms of the disease>;
+Sentence: The Taliban continue to launch attacks across the country .
+Triples: <The Taliban|continue|launch attacks across the country>;<The Taliban|launch|attacks>;
+
+Sentence: The Navkar Mantra is the fundamental prayer of Jainism and may be recited at any time .
+Triples: <The Navkar Mantra|recited|at any time>;
+Sentence: There are a number of competitions and prizes to promote research in artificial intelligence .
+Triples: <a number of competitions and prizes|promote|research>;
+Sentence: ATC issued a series of escalating alerts in response .
+Triples: <ATC|issued|a series of escalating alerts>;<ATC|escalating|alerts>;
+Sentence: High resolution mass spectrometry can usually identify the exact formula of a compound and is used in lieu of elemental analysis .
+Triples: <High resolution mass spectrometry|used|identify the exact formula of a compound>;<High resolution mass spectrometry|identify|the exact formula of a compound>;
+Sentence: The aim of the right is to ensure the proper administration of justice .
+Triples: <The aim of the right|ensure|the proper administration of justice>;
+Sentence: I do n't expect that the lack of British participation will stop any action . ''
+Triples: <the lack of British participation|will stop|any action>;
+Sentence: White rule enforced strict segregation among all races and generated conflict between these communities .
+Triples: <conflict|generated|between these communities>;
+Sentence: Both were shot in the confrontation with police and have been recovering in hospital since the attack .
+Triples: <Both|recovering|since the attack>;<Both|shot|in the confrontation with police>;
+
+Sentence: The men were executed at a prison in the south early in the morning .
+Triples: <The men|executed|in the south early in the morning>;
+Sentence: Fernandes bought AirAsia for a symbolic price from the Malaysian government in 2002 .
+Triples: <Fernandes|bought|in 2002>;
+Sentence: It is a gravity dam , which holds back the waters through sheer mass .
+Triples: <a gravity dam|holds|the waters>;
+Sentence: Landrum has routinely seen three or four patients per day since that time .
+Triples: <Landrum|seen|three or four patients per day>;
+Sentence: Ann MacCallum was found dead at age 51 on a Lewis shingle beach in May .
+Triples: <Ann MacCallum|found|in May>;
+Sentence: The loser plays in the preliminary final against the winner of the minor semi final at a yet-unknown venue .
+Triples: <The loser|plays|the winner of the minor semi final>;
+Sentence: ATC issued a series of escalating alerts in response .
+Triples: <ATC|issued|a series of escalating alerts>;<ATC|escalating|alerts>;
+
+Sentence: The Taliban continue to launch attacks across the country .
+Triples: <The Taliban|continue|launch attacks across the country>;<The Taliban|launch|attacks>;
+Sentence: University went ahead at five minutes with an unconverted try .
+Triples: <University|went|at five minutes>;
+Sentence: Time is said to be the cause of continuity and succession .
+Triples: <Time|said|to be the cause of continuity and succession>;
+Sentence: The Killeen Police Department continues to investigate the soldier 's death .
+Triples: <The Killeen Police Department|continues|to investigate the soldier 's death>;<The Killeen Police Department|investigate|the soldier 's death>;
+Sentence: Cognition allows her to understand it as a danger .
+Triples: <Cognition|understand|danger>;
+Sentence: Anchors are used to moor ships in shallow water .
+Triples: <Anchors|used|in shallow water>;<Anchors|moor|ships>;
+Sentence: These are to be replanted to replace the native flora .
+Triples: <These|replanted|to replace the native flora .>;<These|replace|the native flora>;
+Sentence: John spent night after night in his basement cutting and editing Sledge .
+Triples: <John|spent|night after night>;<John|cutting|Sledge>;
+
+Sentence: Cycling is increasingly becoming a sport to be reckoned with .
+Triples: <Cycling|becoming|a sport to be reckoned with>;
+Sentence: Chile rose one place to be ranked fourteenth .
+Triples: <Chile rose|ranked|fourteenth>;
+Sentence: Greece moved up three to be ranked tenth .
+Triples: <Greece|moved|up three>;<Greece|ranked|tenth>;
+Sentence: The Netherlands dropped four places to be ranked fifteenth .
+Triples: <The Netherlands|ranked|fifteenth>;
+Sentence: Australia rose four places to be ranked 59th .
+Triples: <Australia|ranked|59th>;
+Sentence: Anchors are used to moor ships in shallow water .
+Triples: <Anchors|used|in shallow water>;<Anchors|moor|ships>;
+Sentence: Britain then divided the territory into East and West Florida .
+Triples: <Britain|divided|the territory>;
+Sentence: These articles will spontaneously combust when exposed to the atmosphere .
+Triples: <These articles|combust|when exposed to the atmosphere>;<These articles|exposed|the atmosphere>;
+
+Sentence: Police interviewed Webster for 5 hours on Sunday , but released him around 6pm .
+Triples: <Police|interviewed|on Sunday>;<Police|released|around 6pm>;
+Sentence: Keynes had completed his A Treatise on Probability before the war , but published it in 1921 .
+Triples: <Keynes|published|in 1921>;<Keynes|completed|his A Treatise on Probability>;
+Sentence: White rule enforced strict segregation among all races and generated conflict between these communities .
+Triples: <conflict|generated|between these communities>;
+Sentence: The Allies landed in Sicily in July 1943 , and in Italy in September .
+Triples: <The Allies|landed|in July 1943>;
+Sentence: We stand with the French people in the fight against terror and defending the freedom of the press . ''
+Triples: <the French people|defending|the freedom of the press>;
+Sentence: During his time at the Institute , Wittgenstein developed an interest in aeronautics .
+Triples: <Wittgenstein|developed|During his time at the Institute>;
+Sentence: The group started their trip to the ISS on July 15 launching from the Baikonur Cosmodrome in Kazakhstan .
+Triples: <The group|launching|their trip to the ISS>;<The group|started|on July 15>;
+Sentence: Cindy Ouellett was the team 's third leading scorer , finishing the game with ten .
+Triples: <Cindy Ouellett|finishing|the game>;
+
+Sentence: This became an important strategic asset for the English , allowing them to safely keep troops in northern France .
+Triples: <This|became|an important strategic asset for the English>;<the English|allowing|to safely keep troops in northern France>;<troops|keep|northern France>;
+Sentence: Fernandes bought AirAsia for a symbolic price from the Malaysian government in 2002 .
+Triples: <Fernandes|bought|in 2002>;
+Sentence: The latter half of the 19th century however witnessed systematic studies of organic compounds .
+Triples: <systematic studies of organic compounds|witnessed|The latter half of the 19th century>;
+Sentence: Benefield was the complainant in that charge according to media reports .
+Triples: <Benefield was the complainant in that charge|according|media reports>;
+Sentence: Verwoerd lowered the voting age for whites to 18 and included whites in South West Africa on the roll .
+Triples: <Verwoerd|lowered|the voting age for whites to 18>;<whites|included|in South West Africa>;<whites|included|on the roll>;
+Sentence: Anglet is near the Spanish border , with the ship registered in Spain .
+Triples: <the ship|registered|in Spain>;
+Sentence: Currently a global treaty , the Biosafety Protocol , regulates the trade of GMOs .
+Triples: <the Biosafety Protocol|regulates|the trade of GMOs>;
+Sentence: The aim of the right is to ensure the proper administration of justice .
+Triples: <The aim of the right|ensure|the proper administration of justice>;
+
+Sentence: Some of these clubs aim to promote cycling as a lifestyle and create awareness through social initiatives in their communities .
+Triples: <Some of these clubs|create|awareness>;<Some of these clubs|promote|cycling as a lifestyle>;
+Sentence: Caesar now had a secure base from which to launch an invasion of Britain .
+Triples: <an invasion of Britain|launch|a secure base>;
+Sentence: Opponents of the bill have held demonstrations in Paris , with an estimated 340,000 people protesting at the Eiffel Tower in January .
+Triples: <Opponents of the bill|held|in January>;<an estimated 340,000 people|protesting|Opponents of the bill>;
+Sentence: Many societies distribute largess at the behest of some individual or some larger group of people .
+Triples: <Many societies|distribute|largess>;
+Sentence: The aim of the right is to ensure the proper administration of justice .
+Triples: <The aim of the right|ensure|the proper administration of justice>;
+Sentence: Officials in France have issued a pollution alert after an unladen freighter grounded on a breakwater at Anglet , Basque yesterday .
+Triples: <yesterday|grounded|on a breakwater at Anglet , Basque>;<Officials|issued|a pollution alert>;
+Sentence: In this case , the function of art may be simply to criticize some aspect of society .
+Triples: <the function of art|criticize|some aspect of society>;
+Sentence: My understanding from media reports is that Phalin may produce a surge of similar magnitude over a long stretch of coast .
+Triples: <Phalin|produce|a surge of similar magnitude>;
+
+Sentence: From 1926 , with the members of the Vienna Circle , Wittgenstein would take part in many discussions .
+Triples: <Wittgenstein|would take|part in many discussions>;
+Sentence: In 2002 , 17,000 tons of synthetic indigo were produced from petrochemicals .
+Triples: <synthetic indigo|produced|In 2002>;
+Sentence: On the Great Lakes of North America the circle is replaced with a diamond .
+Triples: <a diamond|replaced|the circle>;
+Sentence: For Marxist theorists , the role of the non-socialist state is determined by its function in the global capitalist order .
+Triples: <the role of the non-socialist state|determined|its function in the global capitalist order>;
+Sentence: In fact , many of the deadliest cyclones in the world have occurred in the Indian Ocean region .
+Triples: <the deadliest cyclones|occurred|in the Indian Ocean region>;
+Sentence: With the outbreak of World War II , the factory was converted to produce military vehicles .
+Triples: <the factory|converted|With the outbreak of World War II>;<the factory|produce|military vehicles>;
+Sentence: During his time at the Institute , Wittgenstein developed an interest in aeronautics .
+Triples: <Wittgenstein|developed|During his time at the Institute>;
+Sentence: The eldest brother , Hans , was hailed as a musical prodigy .
+Triples: <The eldest brother , Hans|hailed|as a musical prodigy>;
+
+Sentence: During his time at the Institute , Wittgenstein developed an interest in aeronautics .
+Triples: <Wittgenstein|developed|During his time at the Institute>;
+Sentence: During a later interview , Mvoko spoke about the incident .
+Triples: <Mvoko|spoke|During a later interview>;
+Sentence: The drafters of the Covenants initially intended only one instrument .
+Triples: <The drafters of the Covenants|intended|only one instrument .>;
+Sentence: Prior to the start of the game , McLachlan was the team 's dominating player in the competition .
+Triples: <McLachlan|dominating|Prior to the start of the game>;
+Sentence: In the 1960s , Noam Chomsky formulated the generative theory of language .
+Triples: <Noam Chomsky|formulated|In the 1960s>;
+Sentence: Any deviation from this family model is considered a `` nontraditional family '' .
+Triples: <Any deviation from this family model|considered|a `` nontraditional family ''>;
+Sentence: Frank Schubert , an opponent of gay marriage , downplayed the results .
+Triples: <Frank Schubert , an opponent of gay marriage|downplayed|the results>;
+Sentence: About 40,000 people attended the opening ceremony .
+Triples: <About 40,000 people|attended|the opening ceremony>;
+
+Sentence: Later , Navajivan was also published in Hindi .
+Triples: <Navajivan|published|in Hindi>;
+Sentence: However , no children resulted from the marriage .
+Triples: <no children|resulted|the marriage>;
+Sentence: The James -- Lange theory has remained influential .
+Triples: <The James -- Lange theory|remained|influential>;
+Sentence: Teammate Katie Harnock ranked eighth .
+Triples: <Teammate Katie Harnock|ranked|eighth>;
+Sentence: Richman : Any action costs money .
+Triples: <Any action|costs|money>;
+Sentence: His broadcasting career has lasted some fifty years .
+Triples: <His broadcasting career|lasted|some fifty years>;
+Sentence: The complex includes restaurants and a cinema .
+Triples: <The complex|includes|restaurants and a cinema>;
+Sentence: The flight carried 162 people .
+Triples: <The flight|carried|people>;
+
+Sentence: Nobel laureate Paul Krugman also actively argued the case for vigorous Keynesian intervention in the economy in his columns for The New York Times .
+Triples: <Nobel laureate Paul Krugman|argued|actively>;
+Sentence: Unemployment in the Eurozone is set to reach 12.2 % in 2013 , an increase from the 2012 level of 11.4 % .
+Triples: <Unemployment in the Eurozone|set|in 2013>;<12.2 %|reach|in 2013>;
+Sentence: By the late 20th century , encyclopedias were being published on CD-ROMs for use with personal computers .
+Triples: <encyclopedias|published|By the late 20th century>;
+Sentence: According to Fox News , the US President can not require US flag lowering at the local level .
+Triples: <the US President|require|US flag lowering at the local level>;
+Sentence: Phytogeographically , Austria belongs to the Central European province of the Circumboreal Region within the Boreal Kingdom .
+Triples: <Austria|belongs|Phytogeographically>;
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: Officials in France have issued a pollution alert after an unladen freighter grounded on a breakwater at Anglet , Basque yesterday .
+Triples: <yesterday|grounded|on a breakwater at Anglet , Basque>;<Officials|issued|a pollution alert>;
+Sentence: As of 2016 , there are over 30 companies utilizing AI into the creation of driverless cars .
+Triples: <over 30 companies|utilizing|AI>;
+
+Sentence: A variety of political figures have criticised Dorries for choosing to go on the show .
+Triples: <Dorries|go|the show>;<Dorries|choosing|to go on the show>;<A variety of political figures|criticised|Dorries>;
+Sentence: Both India and Pakistan have accused the opposite side of initiating the ceasefire violation .
+Triples: <Both India and Pakistan|accused|the opposite side>;
+Sentence: No medications or herbal remedies have been conclusively demonstrated to shorten the duration of infection .
+Triples: <No medications or herbal remedies|shorten|the duration of infection>;
+Sentence: The WWF hopes to help save the saola from extinction by safeguarding its habitat from poachers .
+Triples: <The WWF|safeguarding|its habitat>;<The WWF|hopes|to help save the saola from extinction>;<The WWF|save|the saola from extinction>;<The WWF|help|save the saola from extinction>;
+Sentence: Agence France-Presse quoted a prison-system source as saying most were in their 40s .
+Triples: <Agence France-Presse|saying|most were in their 40s .>;
+Sentence: David Cameron has pledged the Conservatives will hold a referendum in 2017 after a renegotiation of treaties .
+Triples: <the Conservatives|will hold|in 2017 after a renegotiation of treaties>;
+Sentence: Caesar now had a secure base from which to launch an invasion of Britain .
+Triples: <an invasion of Britain|launch|a secure base>;
+Sentence: Thus , Zoroastrianism can be said to be a universalist religion with respect to salvation .
+Triples: <Zoroastrianism|said|be a universalist religion with respect to salvation>;
+
+Sentence: McLachlan finished the game as Canada 's leading scorer with 28 total , 17 in the second half .
+Triples: <McLachlan|finished|the game>;
+Sentence: Noosa took an early lead after eleven minutes through an unconverted try .
+Triples: <Noosa|took|after eleven minutes>;
+Sentence: Consistent condom use reduces the risk of HIV transmission by approximately 80 % over the long term .
+Triples: <Consistent condom use|reduces|the risk of HIV transmission>;
+Sentence: Buses took viewers from the car park below to top of the dam wall .
+Triples: <Buses|took|viewers>;
+Sentence: Fernandes bought AirAsia for a symbolic price from the Malaysian government in 2002 .
+Triples: <Fernandes|bought|in 2002>;
+Sentence: The event started around 8:10 PM Colombian local time with the parade of nations .
+Triples: <The event|started|around 8:10 PM Colombian local time>;
+Sentence: Local farming suffered a decline over the past century due to large amounts of farm subsidies .
+Triples: <Local farming|suffered|over the past century>;
+Sentence: Jains illustrate this theory through the parable of the blind men and an elephant .
+Triples: <Jains|illustrate|this theory>;
+
+Sentence: The Gabba , in Brisbane , is to host the second Test from December 17 .
+Triples: <The Gabba|host|from December 17>;
+Sentence: The plane went missing in the vicinity of Pulau Belitung Island .
+Triples: <The plane|went|missing>;
+Sentence: Team USA started by defeating France 63 -- 24 in its first game .
+Triples: <in its first game|started|by defeating France 63 -- 24>;<Team USA|defeating|in its first game>;
+Sentence: This policy was fully implemented in August 2005 .
+Triples: <This policy|implemented|in August 2005>;
+Sentence: The jetliner was carrying 127 passengers and five crew .
+Triples: <The jetliner|carrying|127 passengers and five crew>;
+Sentence: The Allies landed in Sicily in July 1943 , and in Italy in September .
+Triples: <The Allies|landed|in July 1943>;
+Sentence: The police were then called at 11:48 am .
+Triples: <The police|called|at 11:48 am>;
+Sentence: Jenny cognitively assesses the snake in her presence .
+Triples: <Jenny|assesses|the snake in her presence>;
+
+Sentence: Only the final touches use conventional concrete .
+Triples: <Only the final touches|use|conventional concrete>;
+Sentence: The flight carried 162 people .
+Triples: <The flight|carried|people>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: Teammate Katie Harnock ranked eighth .
+Triples: <Teammate Katie Harnock|ranked|eighth>;
+Sentence: Treatment thus comprises symptomatic relief .
+Triples: <Treatment|comprises|symptomatic relief>;
+Sentence: The assailants escaped with mobile phones and laptops .
+Triples: <The assailants|escaped|mobile phones and laptops>;
+Sentence: The first quarter got off to an exciting start .
+Triples: <The first quarter|got|off to an exciting start>;
+Sentence: The team missed the 2012 Summer Paralympics .
+Triples: <The team|missed|the 2012 Summer Paralympics>;
+
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: The WWF hopes to help save the saola from extinction by safeguarding its habitat from poachers .
+Triples: <The WWF|safeguarding|its habitat>;<The WWF|hopes|to help save the saola from extinction>;<The WWF|save|the saola from extinction>;<The WWF|help|save the saola from extinction>;
+Sentence: The Taliban continue to launch attacks across the country .
+Triples: <The Taliban|continue|launch attacks across the country>;<The Taliban|launch|attacks>;
+Sentence: Philip appealed to his Scottish allies to help with a diversionary attack on England .
+Triples: <Philip|appealed|to his Scottish allies>;<Philip appealed to his Scottish allies|help|with a diversionary attack on England>;
+Sentence: The aim of the right is to ensure the proper administration of justice .
+Triples: <The aim of the right|ensure|the proper administration of justice>;
+Sentence: A combination of these small seasonal effects may be amplified by dynamical resonance with the endogenous disease cycles .
+Triples: <A combination of these small seasonal effects|amplified|by dynamical resonance>;
+Sentence: Each segment of the search could last for several weeks before resupply in Western Australia .
+Triples: <Each segment of the search|last|for several weeks>;<Each segment of the search|last|several weeks before resupply>;
+Sentence: The audience is asked to remain silent during play .
+Triples: <The audience|asked|to remain silent>;<The audience|remain|during play>;
+
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: Talbot had been persuaded to engage the French army at Castillon near Bordeaux .
+Triples: <Talbot|engage|the French army>;
+Sentence: Philip appealed to his Scottish allies to help with a diversionary attack on England .
+Triples: <Philip|appealed|to his Scottish allies>;<Philip appealed to his Scottish allies|help|with a diversionary attack on England>;
+Sentence: The Taliban continue to launch attacks across the country .
+Triples: <The Taliban|continue|launch attacks across the country>;<The Taliban|launch|attacks>;
+Sentence: The Interior Ministry made the announcement via official news agency Petra .
+Triples: <The Interior Ministry|made|the announcement>;
+Sentence: The event started around 8:10 PM Colombian local time with the parade of nations .
+Triples: <The event|started|around 8:10 PM Colombian local time>;
+Sentence: The latter entity provides overall government for the metropolitan region .
+Triples: <The latter entity|provides|the metropolitan region>;
+Sentence: The plane went missing in the vicinity of Pulau Belitung Island .
+Triples: <The plane|went|missing>;
+
+Sentence: The plane went missing in the vicinity of Pulau Belitung Island .
+Triples: <The plane|went|missing>;
+Sentence: They are led by head coach Monreal , with assistant coach Carles Estrany and physiotherapist José Bravo .
+Triples: <They are|led|head coach Monreal>;
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: This event is known as the Machtergreifung -LRB- seizure of power -RRB- .
+Triples: <This event|known|the Machtergreifung>;<This event|known|seizure of power>;
+Sentence: This response is accompanied by a marked drop in the number of circulating CD4 + T cells .
+Triples: <This response|accompanied|a marked drop>;
+Sentence: The picture was recorded last September by a camera trap placed by the Vietnamese government and the WWF .
+Triples: <The picture|recorded|last September>;
+Sentence: Whenever thermal equilibrium is disturbed in a semiconducting material , the amount of holes and electrons changes .
+Triples: <thermal equilibrium|disturbed|a semiconducting material>;
+Sentence: The public was given limited access to the still-active construction site .
+Triples: <The public|given|limited access to the still-active construction site>;
+
+Sentence: The researchers found that ozone pollution caused 46 percent of previously heat-attributed damage to soybean crops .
+Triples: <ozone pollution|caused|46 percent>;
+Sentence: David Cameron has pledged the Conservatives will hold a referendum in 2017 after a renegotiation of treaties .
+Triples: <the Conservatives|will hold|in 2017 after a renegotiation of treaties>;
+Sentence: Talbot had been persuaded to engage the French army at Castillon near Bordeaux .
+Triples: <Talbot|engage|the French army>;
+Sentence: Hitler envisioned widespread car ownership as part of the new Germany .
+Triples: <Hitler|envisioned|widespread car ownership>;
+Sentence: Shapiro said the US `` looks forward to working closely with next government of Israel . ''
+Triples: <the US|working|closely>;
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: This matrilineal descent pattern is in contrasts to the more common pattern of patrilineal descent pattern .
+Triples: <This matrilineal descent pattern|contrasts|the more common pattern of patrilineal descent pattern>;
+Sentence: Larousse noted that the changed the definition based on usage rather than based on the legal status of same sex marriage .
+Triples: <Larousse|based|on the legal status of same sex marriage>;
+
+Sentence: The term emotion was introduced into academic discussion to replace passion .
+Triples: <The term emotion|replace|passion>;<The term emotion|introduced|into academic discussion>;
+Sentence: Winds from this storm reached 60 mile per hour .
+Triples: <Winds from this storm|reached|60 mile per hour>;
+Sentence: Each segment of the search could last for several weeks before resupply in Western Australia .
+Triples: <Each segment of the search|last|for several weeks>;<Each segment of the search|last|several weeks before resupply>;
+Sentence: This method of analysis is known as partial-equilibrium analysis -LRB- supply and demand -RRB- .
+Triples: <This method of analysis|known|partial-equilibrium analysis -LRB- supply and demand -RRB->;
+Sentence: This signature act of torture and murder was embraced by the ANC and its leaders .
+Triples: <the ANC and its leaders|embraced|This signature act of torture and murder>;
+Sentence: Two additional parcel on the island of Islay , Scotland were planted in 2006 for Bruichladdich Distillery .
+Triples: <in 2006|planted|for Bruichladdich Distillery>;
+Sentence: Thousands of seeds were collected during constructions .
+Triples: <seeds|collected|during constructions>;
+Sentence: Both candidates have agreed in principal to sign the agreement .
+Triples: <Both candidates|agreed|in principal to sign the agreement>;<Both candidates|sign|the agreement>;
+
+Sentence: Both were shot in the confrontation with police and have been recovering in hospital since the attack .
+Triples: <Both|recovering|since the attack>;<Both|shot|in the confrontation with police>;
+Sentence: The Navkar Mantra is the fundamental prayer of Jainism and may be recited at any time .
+Triples: <The Navkar Mantra|recited|at any time>;
+Sentence: The consequences of special relativity can be derived from the Lorentz transformation equations .
+Triples: <The consequences of special relativity|derived|from the Lorentz transformation equations>;
+Sentence: A number of protestors chained themselves to the gates of the base and were cut free by Police Scotland officers .
+Triples: <A number of protestors|cut|Police Scotland officers>;
+Sentence: The first kinetoscopes arrived in Belgium at the Fairs in early 1895 .
+Triples: <The first kinetoscopes|arrived|in early 1895>;
+Sentence: The Allies landed in Sicily in July 1943 , and in Italy in September .
+Triples: <The Allies|landed|in July 1943>;
+Sentence: Philip appealed to his Scottish allies to help with a diversionary attack on England .
+Triples: <Philip|appealed|to his Scottish allies>;<Philip appealed to his Scottish allies|help|with a diversionary attack on England>;
+Sentence: Around 600 students were transported to Springwood Sports Club for shelter .
+Triples: <Around 600 students|transported|to Springwood Sports Club>;
+
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+Sentence: The event started around 8:10 PM Colombian local time with the parade of nations .
+Triples: <The event|started|around 8:10 PM Colombian local time>;
+Sentence: The 24-year-old had been monitoring potential symptoms of the disease .
+Triples: <The 24-year-old|monitoring|potential symptoms of the disease>;
+Sentence: The Labour candidate John O'Farrell ended up fourth with 9.82 % of the vote .
+Triples: <John O'Farrell|ended|fourth>;
+Sentence: The plane went missing in the vicinity of Pulau Belitung Island .
+Triples: <The plane|went|missing>;
+Sentence: The French Government have raised the country 's security level to the maximum .
+Triples: <The French Government|raised|the country 's security level to the maximum>;
+Sentence: The saola is critically endangered , according to the IUCN Red List of Endangered Species .
+Triples: <The saola|endangered|critically>;
+Sentence: Maroochydore had two players sent of within two minutes of each other .
+Triples: <Maroochydore|had|within two minutes of each other>;<two players|sent|Maroochydore>;
+
+Sentence: The flight carried 162 people .
+Triples: <The flight|carried|people>;
+Sentence: Only the final touches use conventional concrete .
+Triples: <Only the final touches|use|conventional concrete>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: The team missed the 2012 Summer Paralympics .
+Triples: <The team|missed|the 2012 Summer Paralympics>;
+Sentence: The complex includes restaurants and a cinema .
+Triples: <The complex|includes|restaurants and a cinema>;
+Sentence: The first quarter got off to an exciting start .
+Triples: <The first quarter|got|off to an exciting start>;
+Sentence: Treatment thus comprises symptomatic relief .
+Triples: <Treatment|comprises|symptomatic relief>;
+Sentence: Teammate Katie Harnock ranked eighth .
+Triples: <Teammate Katie Harnock|ranked|eighth>;
+
+Sentence: This allows a minimum break of five days before the Boxing Day Test at the Melbourne Cricket Ground .
+Triples: <This|allows|five days before the Boxing Day Test>;
+Sentence: The group started their trip to the ISS on July 15 launching from the Baikonur Cosmodrome in Kazakhstan .
+Triples: <The group|launching|their trip to the ISS>;<The group|started|on July 15>;
+Sentence: The play depicts the spiritual guidance that Gandhi received from Shrimad Rajchandra .
+Triples: <Gandhi|received|spiritual guidance>;
+Sentence: The saola is critically endangered , according to the IUCN Red List of Endangered Species .
+Triples: <The saola|endangered|critically>;
+Sentence: The plane went missing in the vicinity of Pulau Belitung Island .
+Triples: <The plane|went|missing>;
+Sentence: Each segment of the search could last for several weeks before resupply in Western Australia .
+Triples: <Each segment of the search|last|for several weeks>;<Each segment of the search|last|several weeks before resupply>;
+Sentence: Samoan churchgoing teens had an obese percentage of 38 % compared to 35 % for their non-churchgoing peers .
+Triples: <Samoan churchgoing teens|had|an obese percentage of 38 %>;
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+
+Sentence: The plane was significantly damaged and the airport was shut down .
+Triples: <the airport|shut|The plane was significantly damaged>;
+Sentence: The Killeen Police Department continues to investigate the soldier 's death .
+Triples: <The Killeen Police Department|continues|to investigate the soldier 's death>;<The Killeen Police Department|investigate|the soldier 's death>;
+Sentence: It was too dark to see anything and the temperature was extremely high .
+Triples: <anything|see|It was too dark>;
+Sentence: She said the ship had tried to anchor itself but broke away .
+Triples: <the ship|tried|to anchor itself>;
+Sentence: Heald noted the findings show pollution reduction is also important .
+Triples: <Heald|noted|the findings show pollution reduction is also important>;<the findings|show|pollution reduction is also important>;
+Sentence: Malaysian Prime Minister Najib Razak called the news `` Very sad to hear -LSB- ... -RSB- My thoughts are with the families .
+Triples: <Malaysian Prime Minister Najib Razak|called|the news>;
+Sentence: US defense secretary Chuck Hagel said the US would seek to build an `` international coalition '' .
+Triples: <the US|seek|to build an `` international coalition ''>;<the US|build|an `` international coalition ''>;
+Sentence: Video footage caught the mugging and has been publicly released .
+Triples: <Video footage|released|publicly>;<Video footage|caught|the mugging>;
+
+Sentence: Katrina was actually weakening rapidly as it came ashore .
+Triples: <Katrina|weakening|as it came ashore>;
+Sentence: Webster remained jailed until Benefield dropped the charge on March 5 .
+Triples: <Webster|remained|jailed>;<Webster|jailed|until Benefield dropped the charge on March 5>;<Benefield|dropped|on March 5>;
+Sentence: The latter also became the 38th Governor of California .
+Triples: <The latter|became|the 38th Governor of California .>;
+Sentence: Shapiro said the US `` looks forward to working closely with next government of Israel . ''
+Triples: <the US|working|closely>;
+Sentence: Cognition allows her to understand it as a danger .
+Triples: <Cognition|understand|danger>;
+Sentence: Heald noted the findings show pollution reduction is also important .
+Triples: <Heald|noted|the findings show pollution reduction is also important>;<the findings|show|pollution reduction is also important>;
+Sentence: Phailin intensified rapidly when moving into a low wind-shear environment .
+Triples: <Phailin|intensified|rapidly>;<Phailin|moving|a low wind-shear environment>;
+Sentence: The event is now generally accepted as indeed disproving the doctrine of vitalism .
+Triples: <The event|accepted|generally>;
+
+Sentence: The aim of the right is to ensure the proper administration of justice .
+Triples: <The aim of the right|ensure|the proper administration of justice>;
+Sentence: There are a number of competitions and prizes to promote research in artificial intelligence .
+Triples: <a number of competitions and prizes|promote|research>;
+Sentence: Benefield was the complainant in that charge according to media reports .
+Triples: <Benefield was the complainant in that charge|according|media reports>;
+Sentence: Buses took viewers from the car park below to top of the dam wall .
+Triples: <Buses|took|viewers>;
+Sentence: This allows a minimum break of five days before the Boxing Day Test at the Melbourne Cricket Ground .
+Triples: <This|allows|five days before the Boxing Day Test>;
+Sentence: Noosa took an early lead after eleven minutes through an unconverted try .
+Triples: <Noosa|took|after eleven minutes>;
+Sentence: White rule enforced strict segregation among all races and generated conflict between these communities .
+Triples: <conflict|generated|between these communities>;
+Sentence: Samoan churchgoing teens had an obese percentage of 38 % compared to 35 % for their non-churchgoing peers .
+Triples: <Samoan churchgoing teens|had|an obese percentage of 38 %>;
+
+Sentence: The flight carried 162 people .
+Triples: <The flight|carried|people>;
+Sentence: The team missed the 2012 Summer Paralympics .
+Triples: <The team|missed|the 2012 Summer Paralympics>;
+Sentence: The complex includes restaurants and a cinema .
+Triples: <The complex|includes|restaurants and a cinema>;
+Sentence: Both involved Boeing 777 aircraft .
+Triples: <Both|involved|Boeing 777 aircraft>;
+Sentence: The building was reportedly bombed three times .
+Triples: <The building|bombed|three times>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: Only the final touches use conventional concrete .
+Triples: <Only the final touches|use|conventional concrete>;
+Sentence: The assailants escaped with mobile phones and laptops .
+Triples: <The assailants|escaped|mobile phones and laptops>;
+
+Sentence: The consequences of special relativity can be derived from the Lorentz transformation equations .
+Triples: <The consequences of special relativity|derived|from the Lorentz transformation equations>;
+Sentence: Thousands of seeds were collected during constructions .
+Triples: <seeds|collected|during constructions>;
+Sentence: The fire was extinguished around 8a .
+Triples: <The fire|extinguished|around 8a>;
+Sentence: The latest FIFA global rankings were published on Thursday .
+Triples: <The latest FIFA global rankings were|published|on Thursday>;
+Sentence: The concrete was made on site .
+Triples: <The concrete|made|on site>;
+Sentence: The dam is made from roller-compacted concrete .
+Triples: <The dam|made|roller-compacted concrete>;
+Sentence: Twelve million people were put into forced labour .
+Triples: <Twelve million people|put|into forced labour>;<Twelve million people|forced|labour>;
+Sentence: The eldest brother , Hans , was hailed as a musical prodigy .
+Triples: <The eldest brother , Hans|hailed|as a musical prodigy>;
+
+Sentence: The flight carried 162 people .
+Triples: <The flight|carried|people>;
+Sentence: Treatment thus comprises symptomatic relief .
+Triples: <Treatment|comprises|symptomatic relief>;
+Sentence: Only the final touches use conventional concrete .
+Triples: <Only the final touches|use|conventional concrete>;
+Sentence: Both involved Boeing 777 aircraft .
+Triples: <Both|involved|Boeing 777 aircraft>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: This occurs for two reasons :
+Triples: <This|occurs|for two reasons>;
+Sentence: Australia has also offered assistance .
+Triples: <Australia|offered|assistance>;
+Sentence: AirAsia is based in Malaysia .
+Triples: <AirAsia|based|in Malaysia>;
+
+Sentence: Cindy Ouellett was the team 's third leading scorer , finishing the game with ten .
+Triples: <Cindy Ouellett|finishing|the game>;
+Sentence: The study focuses on ozone -- temperature covariation : ground-level ozone increases with temperatures .
+Triples: <ground-level ozone|increases|with temperatures>;<The study|focuses|ozone -- temperature covariation>;
+Sentence: Sahkalin Island was under a tsunami warning on Friday , however , it was lifted soon after .
+Triples: <a tsunami warning|lifted|soon after>;
+Sentence: During his time at the Institute , Wittgenstein developed an interest in aeronautics .
+Triples: <Wittgenstein|developed|During his time at the Institute>;
+Sentence: A 15-year-old pupil is being questioned about the incident and police recovered a knife at the scene .
+Triples: <police|recovered|a knife>;<A 15-year-old pupil|questioned|the incident>;
+Sentence: The Navkar Mantra is the fundamental prayer of Jainism and may be recited at any time .
+Triples: <The Navkar Mantra|recited|at any time>;
+Sentence: During a later interview , Mvoko spoke about the incident .
+Triples: <Mvoko|spoke|During a later interview>;
+Sentence: The rules for the internal structure of words are called morphology .
+Triples: <The rules for the internal structure of words|called|morphology>;
+
+Sentence: Biden released a statement through the White House .
+Triples: <Biden|released|a statement>;
+Sentence: An Indonesia AirAsia jet vanished over the Kumai region today .
+Triples: <An Indonesia AirAsia jet|vanished|today>;
+Sentence: The mortuary temple was connected to the king 's pyramid .
+Triples: <The mortuary temple|connected|to the king 's pyramid>;
+Sentence: Leeds authorities emphasised the isolated nature of the incident .
+Triples: <Leeds authorities|emphasised|the incident>;
+Sentence: Webster is described as Benefield 's boyfriend .
+Triples: <Webster|described|as Benefield 's boyfriend>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: Three timeouts were taken in the last minute .
+Triples: <Three timeouts|taken|in the last minute>;
+Sentence: The assailants escaped with mobile phones and laptops .
+Triples: <The assailants|escaped|mobile phones and laptops>;
+
+Sentence: She 's going to call me . ''
+Triples: <She 's|going|call me>;
+Sentence: He urged staff to `` Pray hard .
+Triples: <staff|Pray|hard>;
+Sentence: The Singaporean military has sent two C-130 aircraft to assist .
+Triples: <two C-130 aircraft|assist|The Singaporean military>;<The Singaporean military|sent|two C-130 aircraft>;
+Sentence: Both candidates have agreed in principal to sign the agreement .
+Triples: <Both candidates|agreed|in principal to sign the agreement>;<Both candidates|sign|the agreement>;
+Sentence: They are scheduled to play Brazil today .
+Triples: <Brazil|play|today>;<They are|play|today>;
+Sentence: Australia has also offered assistance .
+Triples: <Australia|offered|assistance>;
+Sentence: The site is then to be rehabilitated .
+Triples: <The site|rehabilitated|then>;
+Sentence: France24 identifies co-pilot Plesel as French .
+Triples: <France24|identifies|co-pilot Plesel>;
+
+Sentence: Back in May , a signal consistent with that of a radio beacon was detected in the area , but nothing turned up that helped with the search .
+Triples: <Back in May|helped|with the search>;
+Sentence: Dorries has defended her appearance on the show , telling the Daily Mail earlier in the week : `` I 'm doing the show because 16 million people watch it .
+Triples: <Dorries|defended|her appearance on the show>;<16 million people|watch|the show>;<Dorries|doing|the show>;
+Sentence: As a result of this lack of antigenic diversity , a degree of immunity to influenza B is usually acquired at an early age .
+Triples: <immunity to influenza B|acquired|at an early age>;<a degree of immunity|acquired|at an early age>;
+Sentence: Founded under the name of Byzantion -LRB- Βυζάντιον -RRB- on the Sarayburnu promontory around 660 BCE , the city developed to become one of the most significant in history .
+Triples: <the city|Founded|around 660 BCE>;<the city|become|one of the most significant in history>;
+Sentence: The goal of the chip is to land the ball safely on the green , allowing it to roll out towards the hole .
+Triples: <the ball|land|allowing it to roll out towards the hole>;
+Sentence: Dorries later stated that her participation in the show would allow people to see that normal people can be politicians .
+Triples: <people|see|that normal people can be politicians>;<Dorries|stated|later>;
+Sentence: Keynes had completed his A Treatise on Probability before the war , but published it in 1921 .
+Triples: <Keynes|published|in 1921>;<Keynes|completed|his A Treatise on Probability>;
+Sentence: Anyone who signed on to such a ship for a voyage and , upon realizing the danger , chose to leave the ship , could end up in jail .
+Triples: <Anyone|signed|such a ship for a voyage>;
+
+Sentence: Cognition allows her to understand it as a danger .
+Triples: <Cognition|understand|danger>;
+Sentence: The Taliban continue to launch attacks across the country .
+Triples: <The Taliban|continue|launch attacks across the country>;<The Taliban|launch|attacks>;
+Sentence: Time is said to be the cause of continuity and succession .
+Triples: <Time|said|to be the cause of continuity and succession>;
+Sentence: Tully also noted there will be relocation costs .
+Triples: <Tully|noted|there will be relocation costs>;
+Sentence: Ban added on Monday that he assigned senior managers to consider the recommendations made by the investigators .
+Triples: <senior managers|consider|the recommendations made by the investigators>;<the investigators|made|the recommendations>;<Ban|assigned|senior managers>;
+Sentence: The US Navy also said they were investigating the incident .
+Triples: <The US Navy|said|they were investigating the incident>;<The US Navy|investigating|the incident>;
+Sentence: Talbot had been persuaded to engage the French army at Castillon near Bordeaux .
+Triples: <Talbot|engage|the French army>;
+Sentence: The dam is to supply fresh water to the city of Canberra .
+Triples: <The dam|supply|fresh water>;
+
+Sentence: Somewhere around the time of the failed offensive against Moscow in December 1941 , Hitler resolved that the Jews of Europe were to be exterminated immediately .
+Triples: <the Jews|exterminated|Hitler>;<offensive against Moscow|failed|in December 1941>;
+Sentence: There is some controversy over the role of low body temperature as a risk factor for the common cold ; the majority of the evidence suggests that it may result in greater susceptibility to infection .
+Triples: <low body temperature|result|greater susceptibility to infection>;
+Sentence: One of the problems with the response to Katrina in the United States was that some residents in the vulnerable regions failed to heed the warnings and evacuations were not well coordinated .
+Triples: <some residents in the vulnerable regions|heed|the warnings>;
+Sentence: An official of the Armed Forces of the Philippines based in Palawan told reporters they have deployed a force offering to assist the Guardian .
+Triples: <a force|offering|to assist>;<a force|assist|the Guardian>;<the Armed Forces of the Philippines|deployed|a force>;
+Sentence: Created with the support of Teresa Silva , Fundación También insisted the team be for women to encourage their participation in disability sport .
+Triples: <Fundación También|insisted|the team be for women>;
+Sentence: Following the German invasion of the Soviet Union in 1941 , the tide gradually turned against the Nazis , who suffered major military defeats in 1943 .
+Triples: <the tide gradually turned against the Nazis|Following|in 1941>;<the Nazis|suffered|in 1943 .>;<the Nazis|defeats|in 1941>;
+Sentence: According to CNN in an article published yesterday , presidents generally restrict requests for lowering the flag to major national figures , US governors , and foreign dignitaries .
+Triples: <presidents|restrict|requests for lowering the flag>;<yesterday|According|CNN>;<an article|published|yesterday>;
+Sentence: Against the judgement of many of his senior military officers , Hitler ordered an attack on France and the Low Countries , which began in May 1940 .
+Triples: <his senior military officers|ordered|an attack>;<an attack on France and the Low Countries|began|May 1940>;
+
+Sentence: Cognition allows her to understand it as a danger .
+Triples: <Cognition|understand|danger>;
+Sentence: Delta stated they would work with authorities to investigate .
+Triples: <Delta|stated|they would work with authorities to investigate>;<Delta|work|to investigate>;
+Sentence: Tully also noted there will be relocation costs .
+Triples: <Tully|noted|there will be relocation costs>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+Sentence: The concrete was made on site .
+Triples: <The concrete|made|on site>;
+Sentence: The fire was extinguished around 8a .
+Triples: <The fire|extinguished|around 8a>;
+Sentence: The French-based airframer said it would assist investigators .
+Triples: <French-based airframer|said|it would assist investigators>;
+Sentence: Leeds authorities emphasised the isolated nature of the incident .
+Triples: <Leeds authorities|emphasised|the incident>;
+
+Sentence: Anglet is near the Spanish border , with the ship registered in Spain .
+Triples: <the ship|registered|in Spain>;
+Sentence: Delta stated they would work with authorities to investigate .
+Triples: <Delta|stated|they would work with authorities to investigate>;<Delta|work|to investigate>;
+Sentence: Landrum has assured the medical board he will refresh his training with a medical record-keeping course .
+Triples: <Landrum|refresh|his training>;
+Sentence: Williams had been suffering from depression and announced he would re-engage in a twelve-step program .
+Triples: <Williams|would re-engage|a twelve-step program>;<Williams|announced|he would re-engage in a twelve-step program>;
+Sentence: Cognition allows her to understand it as a danger .
+Triples: <Cognition|understand|danger>;
+Sentence: He wants Turkey to join the European Union .
+Triples: <Turkey|join|the European Union>;
+Sentence: Police have announced that officers are investigating the mugging .
+Triples: <Police|announced|that officers are investigating the mugging>;<officers|investigating|the mugging>;
+Sentence: Chile rose one place to be ranked fourteenth .
+Triples: <Chile rose|ranked|fourteenth>;
+
+Sentence: The USA took a shot at the basket from inside the paint , but missed .
+Triples: <The USA|missed|a shot at the basket>;
+Sentence: Fouls saw Merritt sent to the free throw line , but she missed both shots .
+Triples: <Merritt|sent|to the free throw line>;
+Sentence: Keynes had completed his A Treatise on Probability before the war , but published it in 1921 .
+Triples: <Keynes|published|in 1921>;<Keynes|completed|his A Treatise on Probability>;
+Sentence: This provided a two-man advantage to University for eight minutes .
+Triples: <two-man advantage to University|provided|a>;
+Sentence: Tubbataha Reef has been a UNESCO World Heritage Site since 1993 and covers 97,030 hectares .
+Triples: <Tubbataha Reef|covers|97,030 hectares>;
+Sentence: Webster remained jailed until Benefield dropped the charge on March 5 .
+Triples: <Webster|remained|jailed>;<Webster|jailed|until Benefield dropped the charge on March 5>;<Benefield|dropped|on March 5>;
+Sentence: Most bridges will employ all of the principal forces to some degree , but only a few will predominate .
+Triples: <Most bridges|employ|all of the principal forces>;
+Sentence: David Cameron played down suggestions that UKIP pose a big threat to the Conservative Party at the 2015 General Election .
+Triples: <UKIP|pose|a big threat to the Conservative Party>;
+
+Sentence: As the synfuel would be used on-site , the process would be more efficient and might just provide enough fuel for a new organic-agriculture fusion .
+Triples: <the synfuel|used|on-site>;<the process|provide|enough fuel for a new organic-agriculture fusion>;
+Sentence: South Africa selected a multi-racial team for the next Games , and the IOC opted for incorporation in the 1968 Games in Mexico .
+Triples: <South Africa|selected|a multi-racial team>;<the IOC|opted|1968>;
+Sentence: The store reportedly acted as a replacement for the Woolworths building which closed there when the group entered administration in 2009 .
+Triples: <The store|acted|as a replacement for the Woolworths building>;<the Woolworths building|closed|when the group entered administration in 2009>;<the group|entered|in 2009>;
+Sentence: Organic synthesis of a novel compound is a problem solving task , where a synthesis is designed for a target molecule by selecting optimal reactions from optimal starting materials .
+Triples: <a synthesis|designed|a target molecule>;
+Sentence: Following the German invasion of the Soviet Union in 1941 , the tide gradually turned against the Nazis , who suffered major military defeats in 1943 .
+Triples: <the tide gradually turned against the Nazis|Following|in 1941>;<the Nazis|suffered|in 1943 .>;<the Nazis|defeats|in 1941>;
+Sentence: After the virus enters the body there is a period of rapid viral replication , leading to an abundance of virus in the peripheral blood .
+Triples: <the virus|enters|the body>;<rapid viral replication|leading|an abundance of virus in the peripheral blood>;
+Sentence: Gerard Biard , the editor-in-chief of Charlie Hebdo , stated : `` I do n't understand how people can attack a newspaper with heavy weapons .
+Triples: <people|can attack|a newspaper>;
+Sentence: They would take the lead seventeen minutes into the second half and would not relinquish until three minutes left in the game .
+Triples: <three minutes|left|in the game>;
+
+Sentence: There was unrest at the volcano during 2002 -- 05 but it has returned to normalcy .
+Triples: <the volcano|returned|to normalcy>;
+Sentence: During the battle the French appeared to retreat towards their camp .
+Triples: <the French|retreat|During the battle>;
+Sentence: The Navkar Mantra is the fundamental prayer of Jainism and may be recited at any time .
+Triples: <The Navkar Mantra|recited|at any time>;
+Sentence: Fouls saw Merritt sent to the free throw line , but she missed both shots .
+Triples: <Merritt|sent|to the free throw line>;
+Sentence: From 1926 , with the members of the Vienna Circle , Wittgenstein would take part in many discussions .
+Triples: <Wittgenstein|would take|part in many discussions>;
+Sentence: The study focuses on ozone -- temperature covariation : ground-level ozone increases with temperatures .
+Triples: <ground-level ozone|increases|with temperatures>;<The study|focuses|ozone -- temperature covariation>;
+Sentence: Both were shot in the confrontation with police and have been recovering in hospital since the attack .
+Triples: <Both|recovering|since the attack>;<Both|shot|in the confrontation with police>;
+Sentence: A number of protestors chained themselves to the gates of the base and were cut free by Police Scotland officers .
+Triples: <A number of protestors|cut|Police Scotland officers>;
+
+Sentence: The group started their trip to the ISS on July 15 launching from the Baikonur Cosmodrome in Kazakhstan .
+Triples: <The group|launching|their trip to the ISS>;<The group|started|on July 15>;
+Sentence: Buses took viewers from the car park below to top of the dam wall .
+Triples: <Buses|took|viewers>;
+Sentence: A screenshot apparently leaked from an ATC radar screen shows the flight ascending through 36,000 ft with a ground speed of 353knts .
+Triples: <A screenshot|leaked|from an ATC radar screen>;
+Sentence: That had a huge cost in terms of thousands of lives lost and billions of dollars in damage .
+Triples: <That|had|a huge cost>;
+Sentence: Nobel laureate Paul Krugman also actively argued the case for vigorous Keynesian intervention in the economy in his columns for The New York Times .
+Triples: <Nobel laureate Paul Krugman|argued|actively>;
+Sentence: David Cameron has pledged the Conservatives will hold a referendum in 2017 after a renegotiation of treaties .
+Triples: <the Conservatives|will hold|in 2017 after a renegotiation of treaties>;
+Sentence: Fernandes bought AirAsia for a symbolic price from the Malaysian government in 2002 .
+Triples: <Fernandes|bought|in 2002>;
+Sentence: Some experts blame urban sprawl for increases in both the risk and frequency of flooding on the Mississippi River .
+Triples: <Some experts|blame|urban sprawl>;
+
+Sentence: The expedition was funded largely by the Spanish Crown , which provided ships carrying supplies for two years of travel .
+Triples: <The expedition|funded|largely by the Spanish Crown>;<ships|carrying|supplies for two years of travel>;
+Sentence: It is a gravity dam , which holds back the waters through sheer mass .
+Triples: <a gravity dam|holds|the waters>;
+Sentence: Many societies distribute largess at the behest of some individual or some larger group of people .
+Triples: <Many societies|distribute|largess>;
+Sentence: Jains illustrate this theory through the parable of the blind men and an elephant .
+Triples: <Jains|illustrate|this theory>;
+Sentence: However , poor harvests led to widespread revolt in Gaul , which forced Caesar to leave Britain for the last time .
+Triples: <Caesar|forced|leave Britain for the last time>;<Caesar|leave|Britain>;
+Sentence: The play depicts the spiritual guidance that Gandhi received from Shrimad Rajchandra .
+Triples: <Gandhi|received|spiritual guidance>;
+Sentence: Egyptian civilization was built on the banks of the Nile River , which flooded each year , depositing soil on its banks .
+Triples: <Egyptian civilization|built|on the banks of the Nile River>;<the banks of the Nile River|flooded|each year>;<the Nile River|depositing|soil>;
+Sentence: What were some of the items/services that required buying/payment ?
+Triples: <items/services|required|buying/payment>;
+
+Sentence: Fernandes bought AirAsia for a symbolic price from the Malaysian government in 2002 .
+Triples: <Fernandes|bought|in 2002>;
+Sentence: Local farming suffered a decline over the past century due to large amounts of farm subsidies .
+Triples: <Local farming|suffered|over the past century>;
+Sentence: Agence France-Presse quoted a prison-system source as saying most were in their 40s .
+Triples: <Agence France-Presse|saying|most were in their 40s .>;
+Sentence: Benefield was the complainant in that charge according to media reports .
+Triples: <Benefield was the complainant in that charge|according|media reports>;
+Sentence: Buses took viewers from the car park below to top of the dam wall .
+Triples: <Buses|took|viewers>;
+Sentence: All were Jordanian citizens and had exhausted all appeals , according to the ministry .
+Triples: <Jordanian citizens|exhausted|all appeals>;
+Sentence: This became an important strategic asset for the English , allowing them to safely keep troops in northern France .
+Triples: <This|became|an important strategic asset for the English>;<the English|allowing|to safely keep troops in northern France>;<troops|keep|northern France>;
+Sentence: Each segment of the search could last for several weeks before resupply in Western Australia .
+Triples: <Each segment of the search|last|for several weeks>;<Each segment of the search|last|several weeks before resupply>;
+
+Sentence: Aztec civilization developed into an extensive empire that , much like the Roman Empire , had the goal of exacting tribute from the conquered colonial areas .
+Triples: <colonial areas|conquered|Aztec civilization>;<colonial areas|conquered|an extensive empire>;
+Sentence: Trade unions were abolished in May 1933 with the seizure of the funds and arrest of the leadership of the Social Democratic trade unions .
+Triples: <Trade unions|abolished|in May 1933>;
+Sentence: The expedition was funded largely by the Spanish Crown , which provided ships carrying supplies for two years of travel .
+Triples: <The expedition|funded|largely by the Spanish Crown>;<ships|carrying|supplies for two years of travel>;
+Sentence: This response is accompanied by a marked drop in the number of circulating CD4 + T cells .
+Triples: <This response|accompanied|a marked drop>;
+Sentence: For Miliband , the state is dominated by an elite that comes from the same background as the capitalist class .
+Triples: <an elite|comes|the same background as the capitalist class>;<the state|dominated|by an elite>;
+Sentence: Alzheimer 's slowed but did not end his writing , with a final novel , the fourth book in the Long Earth series due in the summer of 2015 .
+Triples: <Alzheimer 's|end|his writing>;
+Sentence: In his autobiography , Rudolf Carnap describes Wittgenstein as the thinker who gave him the greatest inspiration .
+Triples: <Wittgenstein|gave|the greatest inspiration>;<Rudolf Carnap|describes|Wittgenstein>;
+Sentence: However , poor harvests led to widespread revolt in Gaul , which forced Caesar to leave Britain for the last time .
+Triples: <Caesar|forced|leave Britain for the last time>;<Caesar|leave|Britain>;
+
+Sentence: The fire was extinguished around 8a .
+Triples: <The fire|extinguished|around 8a>;
+Sentence: The concrete was made on site .
+Triples: <The concrete|made|on site>;
+Sentence: The latest FIFA global rankings were published on Thursday .
+Triples: <The latest FIFA global rankings were|published|on Thursday>;
+Sentence: Later , Navajivan was also published in Hindi .
+Triples: <Navajivan|published|in Hindi>;
+Sentence: The dam is made from roller-compacted concrete .
+Triples: <The dam|made|roller-compacted concrete>;
+Sentence: AirAsia is based in Malaysia .
+Triples: <AirAsia|based|in Malaysia>;
+Sentence: This policy was fully implemented in August 2005 .
+Triples: <This policy|implemented|in August 2005>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+
+Sentence: The concrete was made on site .
+Triples: <The concrete|made|on site>;
+Sentence: Some modern interpretations see this horse as a robot .
+Triples: <Some modern interpretations|see|this horse>;
+Sentence: The fire was extinguished around 8a .
+Triples: <The fire|extinguished|around 8a>;
+Sentence: Leeds authorities emphasised the isolated nature of the incident .
+Triples: <Leeds authorities|emphasised|the incident>;
+Sentence: The complex includes restaurants and a cinema .
+Triples: <The complex|includes|restaurants and a cinema>;
+Sentence: The dam is made from roller-compacted concrete .
+Triples: <The dam|made|roller-compacted concrete>;
+Sentence: This policy was fully implemented in August 2005 .
+Triples: <This policy|implemented|in August 2005>;
+Sentence: All Congressmen resigned from office .
+Triples: <All Congressmen|resigned|from office>;
+
+Sentence: Cindy Ouellett was the team 's third leading scorer , finishing the game with ten .
+Triples: <Cindy Ouellett|finishing|the game>;
+Sentence: Istanbul University , founded in 1453 , is the oldest Turkish educational institution in the city .
+Triples: <Istanbul University|founded|in 1453>;
+Sentence: After sixteen years , Microsoft discontinued the Encarta line of products in 2009 .
+Triples: <Microsoft|discontinued|in 2009 .>;
+Sentence: Lewis Latimer joined the Edison Electric Light Company in 1884 .
+Triples: <Lewis Latimer|joined|in 1884>;
+Sentence: Istanbul Technical University , founded in 1773 , is the world 's third-oldest university dedicated entirely to engineering sciences .
+Triples: <entirely|dedicated|to engineering sciences>;<Istanbul Technical University|founded|in 1773>;
+Sentence: Ibn Khaldun often criticized `` idle superstition and uncritical acceptance of historical data . ''
+Triples: <Ibn Khaldun|criticized|idle superstition and uncritical acceptance of historical data>;
+Sentence: Reference frames play a crucial role in relativity theory .
+Triples: <Reference frames|play|a crucial role in relativity theory>;
+Sentence: Egyptian President , Mohamed Morsi , began an official state visit to China last Tuesday .
+Triples: <Mohamed Morsi|began|last Tuesday>;
+
+Sentence: Pliny also noted barley was a special food of gladiators known as hordearii , `` barley-eaters '' .
+Triples: <gladiators|known|hordearii , `` barley-eaters ''>;
+Sentence: Heald noted the findings show pollution reduction is also important .
+Triples: <Heald|noted|the findings show pollution reduction is also important>;<the findings|show|pollution reduction is also important>;
+Sentence: In the fourth quarter , the Australian defence remained taut , but the shooting remained terrible .
+Triples: <the Australian defence|remained|In the fourth quarter>;<the shooting|remained|In the fourth quarter>;
+Sentence: It was too dark to see anything and the temperature was extremely high .
+Triples: <anything|see|It was too dark>;
+Sentence: Plutarch also reports that Caesar said nothing , pulling his toga over his head when he saw Brutus among the conspirators .
+Triples: <Caesar|pulling|his toga>;<Caesar|said|when he saw Brutus among the conspirators>;
+Sentence: Obama also said that the US would provide assistance `` to help bring these terrorists to justice '' .
+Triples: <the US|bring|these terrorists to justice>;
+Sentence: Dorries later stated that her participation in the show would allow people to see that normal people can be politicians .
+Triples: <people|see|that normal people can be politicians>;<Dorries|stated|later>;
+Sentence: Landrum has assured the medical board he will refresh his training with a medical record-keeping course .
+Triples: <Landrum|refresh|his training>;
+
