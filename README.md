@@ -3,7 +3,8 @@
 ```shell 
 python carb/carb.py --allennlp result/zero-shot/CaRB/task1.carb --gold result/gold/carb_50.tsv --out /dev/null
 ```
-
+data文件夹中保存着句子和树的数据，其中树的标记我们参考[SMiLe_OIE](https://github.com/daviddongkc/smile_oie)的工作，使用StanfordCoreNLP包进行标注。  
+另外，原始的[LSOIE](https://github.com/Jacobsolawetz/large-scale-oie)数据集和[CaRB](https://github.com/dair-iitd/CaRB)数据集都可以在网页中获得，这里不做过多赘述
 
 
 
